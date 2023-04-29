@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="maxHeight" format="dimension" />
+    <attr name="maxWidth" format="dimension" />
+    <attr name="enabled" format="boolean" />
+
+    <declare-styleable name="CustomView">
+        <attr name="maxHeight"/>
+        <attr name="maxWidth"/>
+    </declare-styleable>
+
+    <attr name="textFont" format="enum">
+        <enum name="AvenirBook" value="0"/>
+        <enum name="Muli" value="1"/>
+        <enum name="MuliLight" value="2"/>
+        <enum name="RobotoLight" value="3"/>
+        <enum name="RobotoMedium" value="4"/>
+        <enum name="RobotoRegular" value="5"/>
+        <enum name="MuliBoldItalic" value="6"/>
+        <enum name="AvenirNextMedium" value="7"/>
+        <enum name="RobotoBold" value="8"/>
+        <enum name="AvenirBookBlack" value="9"/>
+        <enum name="MyriadProRegular" value="10"/>
+        <enum name="OpenSansLight" value="11"/>
+        <enum name="OpenSansSemibold" value="12"/>
+        <enum name="OpenSansRegular" value="13"/>
+        <enum name="OswaldExtraLightItalic" value="14"/>
+        <enum name="OpenSansItalic" value="15"/>
+        <enum name="RalewaySemiBold" value="16"/>
+        <enum name="RalewayBold" value="17"/>
+        <enum name="OpenSansBold" value="18"/>
+    </attr>
+
+    <declare-styleable name="CustomTextView">
+        <attr name="textFont"/>
+    </declare-styleable>
+
+    <declare-styleable name="AmountInputField">
+        <attr name="textFont"/>
+        <attr name="valuePrefix" format="string"/>
+    </declare-styleable>
+
+    <declare-styleable name="CustomSpinner">
+        <attr name="values" format="reference"/>
+        <attr name="textFont"/>
+    </declare-styleable>
+
+    <declare-styleable name="CustomEditText">
+        <attr name="textFont"/>
+    </declare-styleable>
+
+    <declare-styleable name="AutoCompleteDropdown">
+        <attr name="layout" format="reference"/>
+        <attr name="hint" format="string"/>
+        <attr name="textFont"/>
+        <attr name="enabled"/>
+        <attr name="scrollOnFocus" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="StyleableAttr" >
+        <attr name="android:textColor" />
+        <attr name="android:background" />
+    </declare-styleable>
+
+    <declare-styleable name="AppTheme">
+        <attr name="customEditTextStyle" format="reference"/>
+    </declare-styleable>
+</resources>

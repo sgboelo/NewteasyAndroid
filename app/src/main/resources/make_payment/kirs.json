@@ -1,0 +1,584 @@
+{
+  "business_level": [
+    {
+      "name": "Micro Business",
+      "types": [
+        {
+          "name": "Trade/Business/Wears",
+          "amount": "1500"
+        },
+        {
+          "name": "Trade/Business/Bakery",
+          "amount": "2500"
+        },
+        {
+          "name": "Trade/Business/Saloon",
+          "amount": "1500"
+        },
+        {
+          "name": "Trade/Business/Service Providers",
+          "amount": "2000"
+        },
+        {
+          "name": "Trade/Business/Clubs",
+          "amount": "3000"
+        },
+        {
+          "name": "Trade/Business/Small Industries",
+          "amount": "1500"
+        },
+        {
+          "name": "Trade/Business/Corporate Business",
+          "amount": "2500"
+        },
+        {
+          "name": "Trade/Business/Labour Services",
+          "amount": "2500"
+        },
+        {
+          "name": "Trade/Business/Oil Business",
+          "amount": "2500"
+        },
+        {
+          "name": "Trade/Business/Tailoring Services",
+          "amount": "2000"
+        },
+        {
+          "name": "Trade/Business/Road Transportations",
+          "amount": "2500"
+        },
+        {
+          "name": "Trade/Business/Trading Services",
+          "amount": "2000"
+        },
+        {
+          "name": "Trade/Business/Utilities Services",
+          "amount": "2000"
+        },
+        {
+          "name": "Trade/Business/Furtniture Services",
+          "amount": "2000"
+        },
+        {
+          "name": "Trade/Business/Building Materials",
+          "amount": "2000"
+        },
+        {
+          "name": "Trade/Business/Family Needs",
+          "amount": "2000"
+        },
+        {
+          "name": "Trade/Business/Carpentry Services",
+          "amount": "2000"
+        },
+        {
+          "name": "Trade/Business/Restaurant Services",
+          "amount": "2500"
+        },
+        {
+          "name": "Trade/Business/Contractors",
+          "amount": "2500"
+        },
+        {
+          "name": "Trade/Business/Workshop",
+          "amount": "1500"
+        },
+        {
+          "name": "Trade/Business/Artist",
+          "amount": "2500"
+        },
+        {
+          "name": "Trade/Business/Professional Services",
+          "amount": "2000"
+        },
+        {
+          "name": "Trade/Business/Entertainment Services",
+          "amount": "10000"
+        },
+        {
+          "name": "Trade/Business/Farming Services",
+          "amount": "2000"
+        },
+        {
+          "name": "Trade/Business/Aluminium Services",
+          "amount": "2000"
+        },
+        {
+          "name": "Trade/Business/Hand-made Services",
+          "amount": "1000"
+        },
+        {
+          "name": "Trade/Business/Transporters",
+          "amount": "2000"
+        },
+        {
+          "name": "Trade/Business/Other Services",
+          "amount": "2000"
+        },
+        {
+          "name": "Trade/Business/Steel Work",
+          "amount": "2500"
+        },
+        {
+          "name": "Trade/Business/Special Dealer",
+          "amount": "2000"
+        },
+        {
+          "name": "Trade/Business/Forex Services",
+          "amount": "10000"
+        }
+      ]
+    },
+    {
+      "name": "Small Business",
+      "types": [
+        {
+          "name": "Trade/Business/Wears",
+          "amount": "10000"
+        },
+        {
+          "name": "Trade/Business/Bakery",
+          "amount": "15000"
+        },
+        {
+          "name": "Trade/Business/Saloon",
+          "amount": "6000"
+        },
+        {
+          "name": "Trade/Business/Service Providers",
+          "amount": "10000"
+        },
+        {
+          "name": "Trade/Business/Clubs",
+          "amount": "10000"
+        },
+        {
+          "name": "Trade/Business/Small Industries",
+          "amount": "10000"
+        },
+        {
+          "name": "Trade/Business/Corporate Business",
+          "amount": "20000"
+        },
+        {
+          "name": "Trade/Business/Labour Services",
+          "amount": "15000"
+        },
+        {
+          "name": "Trade/Business/Oil Business",
+          "amount": "30000"
+        },
+        {
+          "name": "Trade/Business/Tailoring Services",
+          "amount": "10000"
+        },
+        {
+          "name": "Trade/Business/Road Transportations",
+          "amount": "7000"
+        },
+        {
+          "name": "Trade/Business/Trading Services",
+          "amount": "7500"
+        },
+        {
+          "name": "Trade/Business/Utilities Services",
+          "amount": "10000"
+        },
+        {
+          "name": "Trade/Business/Furtniture Services",
+          "amount": "10000"
+        },
+        {
+          "name": "Trade/Business/Building Materials",
+          "amount": "10000"
+        },
+        {
+          "name": "Trade/Business/Family Needs",
+          "amount": "10000"
+        },
+        {
+          "name": "Trade/Business/Carpentry Services",
+          "amount": "15000"
+        },
+        {
+          "name": "Trade/Business/Restaurant Services",
+          "amount": "15000"
+        },
+        {
+          "name": "Trade/Business/Contractors",
+          "amount": "40000"
+        },
+        {
+          "name": "Trade/Business/Workshop",
+          "amount": "5000"
+        },
+        {
+          "name": "Trade/Business/Artist",
+          "amount": "5000"
+        },
+        {
+          "name": "Trade/Business/Professional Services",
+          "amount": "20000"
+        },
+        {
+          "name": "Trade/Business/Entertainment Services",
+          "amount": "15000"
+        },
+        {
+          "name": "Trade/Business/Farming Services",
+          "amount": "10000"
+        },
+        {
+          "name": "Trade/Business/Aluminium Services",
+          "amount": "10000"
+        },
+        {
+          "name": "Trade/Business/Hand-made Services",
+          "amount": "10000"
+        },
+        {
+          "name": "Trade/Business/Transporters",
+          "amount": "15000"
+        },
+        {
+          "name": "Trade/Business/Other Services",
+          "amount": "10000"
+        },
+        {
+          "name": "Trade/Business/Steel Work",
+          "amount": "15000"
+        },
+        {
+          "name": "Trade/Business/Special Dealer",
+          "amount": "10000"
+        },
+        {
+          "name": "Trade/Business/Forex Services",
+          "amount": "50000"
+        }
+      ]
+    },
+    {
+      "name": "Medium Business",
+      "types": [
+        {
+          "name": "Trade/Business/Wears",
+          "amount": "30000"
+        },
+        {
+          "name": "Trade/Business/Bakery",
+          "amount": "25000"
+        },
+        {
+          "name": "Trade/Business/Saloon",
+          "amount": "15000"
+        },
+        {
+          "name": "Trade/Business/Service Providers",
+          "amount": "20000"
+        },
+        {
+          "name": "Trade/Business/Clubs",
+          "amount": "20000"
+        },
+        {
+          "name": "Trade/Business/Small Industries",
+          "amount": "25000"
+        },
+        {
+          "name": "Trade/Business/Corporate Business",
+          "amount": "40000"
+        },
+        {
+          "name": "Trade/Business/Labour Services",
+          "amount": "40000"
+        },
+        {
+          "name": "Trade/Business/Oil Business",
+          "amount": "50000"
+        },
+        {
+          "name": "Trade/Business/Tailoring Services",
+          "amount": "25000"
+        },
+        {
+          "name": "Trade/Business/Road Transportations",
+          "amount": "20000"
+        },
+        {
+          "name": "Trade/Business/Trading Services",
+          "amount": "20000"
+        },
+        {
+          "name": "Trade/Business/Utilities Services",
+          "amount": "20000"
+        },
+        {
+          "name": "Trade/Business/Furtniture Services",
+          "amount": "20000"
+        },
+        {
+          "name": "Trade/Business/Building Materials",
+          "amount": "20000"
+        },
+        {
+          "name": "Trade/Business/Family Needs",
+          "amount": "20000"
+        },
+        {
+          "name": "Trade/Business/Carpentry Services",
+          "amount": "50000"
+        },
+        {
+          "name": "Trade/Business/Restaurant Services",
+          "amount": "50000"
+        },
+        {
+          "name": "Trade/Business/Contractors",
+          "amount": "60000"
+        },
+        {
+          "name": "Trade/Business/Workshop",
+          "amount": "15000"
+        },
+        {
+          "name": "Trade/Business/Artist",
+          "amount": "50000"
+        },
+        {
+          "name": "Trade/Business/Professional Services",
+          "amount": "50000"
+        },
+        {
+          "name": "Trade/Business/Entertainment Services",
+          "amount": "20000"
+        },
+        {
+          "name": "Trade/Business/Farming Services",
+          "amount": "20000"
+        },
+        {
+          "name": "Trade/Business/Aluminium Services",
+          "amount": "30000"
+        },
+        {
+          "name": "Trade/Business/Hand-made Services",
+          "amount": "40000"
+        },
+        {
+          "name": "Trade/Business/Transporters",
+          "amount": "30000"
+        },
+        {
+          "name": "Trade/Business/Other Services",
+          "amount": "20000"
+        },
+        {
+          "name": "Trade/Business/Steel Work",
+          "amount": "30000"
+        },
+        {
+          "name": "Trade/Business/Special Dealer",
+          "amount": "30000"
+        },
+        {
+          "name": "Trade/Business/Forex Services",
+          "amount": "100000"
+        }
+      ]
+    },
+    {
+      "name": "Per Canter",
+      "types": [
+        {
+          "name": "Trade/Business/Wood",
+          "amount": "3000"
+        },
+        {
+          "name": "Trade/Business/Madrid Tree",
+          "amount": "10000"
+        },
+        {
+          "name": "Trade/Business/Firewood",
+          "amount": "1000"
+        },
+        {
+          "name": "Trade/Business/Charcoal",
+          "amount": "1000"
+        },
+        {
+          "name": "Trade/Business/Poultry Dust",
+          "amount": "1000"
+        },
+        {
+          "name": "Trade/Business/Mango",
+          "amount": "1000"
+        },
+        {
+          "name": "Trade/Business/Cashew",
+          "amount": "1000"
+        },
+        {
+          "name": "Trade/Business/Guava",
+          "amount": "1000"
+        },
+        {
+          "name": "Trade/Business/Banana",
+          "amount": "1000"
+        },
+        {
+          "name": "Trade/Business/Pineapple",
+          "amount": "1000"
+        },
+        {
+          "name": "Trade/Business/Ginger",
+          "amount": "1000"
+        },
+        {
+          "name": "Trade/Business/Groudnut",
+          "amount": "1000"
+        }
+      ]
+    },
+    {
+      "name": "Per Truck",
+      "types": [
+        {
+          "name": "Trade/Business/Wood",
+          "amount": "10000"
+        },
+        {
+          "name": "Trade/Business/Madrid Tree",
+          "amount": "30000"
+        },
+        {
+          "name": "Trade/Business/Firewood",
+          "amount": "5000"
+        },
+        {
+          "name": "Trade/Business/Charcoal",
+          "amount": "5000"
+        },
+        {
+          "name": "Trade/Business/Poultry Dust",
+          "amount": "5000"
+        },
+        {
+          "name": "Trade/Business/Mango",
+          "amount": "5000"
+        },
+        {
+          "name": "Trade/Business/Cashew",
+          "amount": "5000"
+        },
+        {
+          "name": "Trade/Business/Guava",
+          "amount": "5000"
+        },
+        {
+          "name": "Trade/Business/Banana",
+          "amount": "5000"
+        },
+        {
+          "name": "Trade/Business/Pineapple",
+          "amount": "5000"
+        },
+        {
+          "name": "Trade/Business/Ginger",
+          "amount": "5000"
+        },
+        {
+          "name": "Trade/Business/Groudnut",
+          "amount": "5000"
+        }
+      ]
+    }
+  ],
+
+  "ito_list": [
+    {
+      "code": "NML",
+      "name": "Nomansland"
+    },
+    {
+      "code": "SGB",
+      "name": "Galadima"
+    },
+    {
+      "code": "FGE",
+      "name": "Fagge"
+    },
+    {
+      "code": "CTN",
+      "name": "City North"
+    },
+    {
+      "code": "SHR",
+      "name": "Sharada"
+    },
+    {
+      "code": "CTW",
+      "name": "City West"
+    },
+    {
+      "code": "GYD",
+      "name": "Gyadi Gyadi"
+    },
+    {
+      "code": "NBW",
+      "name": "Naibawa"
+    },
+    {
+      "code": "KWR",
+      "name": "Kwari"
+    },
+    {
+      "code": "KFR",
+      "name": "Kofar Ruwa"
+    },
+    {
+      "code": "KTR",
+      "name": "Katsina Road"
+    },
+    {
+      "code": "BMP",
+      "name": "Bompai"
+    },
+    {
+      "code": "HTR",
+      "name": "Hotoro"
+    },
+    {
+      "code": "BRG",
+      "name": "Brigade"
+    },
+    {
+      "code": "SHK",
+      "name": "Sheka"
+    },
+    {
+      "code": "DWN",
+      "name": "Dawanau"
+    },
+    {
+      "code": "BCW",
+      "name": "Bachirawa"
+    },
+    {
+      "code": "CHW",
+      "name": "Challawa"
+    },
+    {
+      "code": "GRH",
+      "name": "KIRS HQ (green house)"
+    },
+    {
+      "code": "RJZ",
+      "name": "Rijiyar Zaki"
+    },
+    {
+      "code": "NSR",
+      "name": "Nassarawa"
+    }
+  ]
+}

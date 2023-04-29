@@ -1,0 +1,849 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:2:1-105:12
+INJECTED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:2:1-105:12
+INJECTED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:2:1-105:12
+INJECTED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:2:1-105:12
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] /Users/smart/.gradle/caches/transforms-2/files-2.1/8c97106a58276e3363a1a0cf0822d5af/zxing-1.9.13/AndroidManifest.xml:2:1-13:12
+MERGED from [me.dm7.barcodescanner:core:1.9.13] /Users/smart/.gradle/caches/transforms-2/files-2.1/9db96ea4ea6dd2b9d5a6f0067fca326f/jetified-core-1.9.13/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/83fb8f89a1302af1b9fe23d5e3e4e4b0/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/78182e54cf3663125dcc3259314e1427/gridlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:17:1-145:12
+MERGED from [com.braintreepayments:card-form:5.4.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/2f9fad67ef4fbd4fa642202469ba0e90/card-form-5.4.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.SanojPunchihewa:InAppUpdater:1.0.5] /Users/smart/.gradle/caches/transforms-2/files-2.1/b99bef4d746e6c7da09f2233155cc013/InAppUpdater-1.0.5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.6.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/6b5778ad39fcfe69eedb4a8d0f02b193/material-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.ismaeldivita:chip-navigation-bar:1.4.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/d79d4c8d65b0318ae77ec04a88f74073/chip-navigation-bar-1.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/smart/.gradle/caches/transforms-2/files-2.1/280689815fc22e0e5a96fb2900f15034/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [co.paystack.android:paystack:3.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/578407a48ec6a1e8bf152dd13ee40de2/jetified-paystack-3.1.2/AndroidManifest.xml:2:1-28:12
+MERGED from [ru.tinkoff.decoro:decoro:1.3.5] /Users/smart/.gradle/caches/transforms-2/files-2.1/e9c0b7ea20eec231adbfb723219bc164/jetified-decoro-1.3.5/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.biometric:biometric:1.2.0-alpha04] /Users/smart/.gradle/caches/transforms-2/files-2.1/a415bc5f31d9590078ccd94e616b893c/biometric-1.2.0-alpha04/AndroidManifest.xml:17:1-29:12
+MERGED from [com.github.darshan-miskin:PinView-Android:v1.1.8] /Users/smart/.gradle/caches/transforms-2/files-2.1/7dc1a90a3b4f74bf960cfc5111fef556/PinView-Android-v1.1.8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.aabhasr1:OtpView:v1.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/4228dcc3b9cc449f4f204acc6dccb466/OtpView-v1.1.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.shuhart:stepview:1.5.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/a73d4155e250ca52a615fde2907108bf/stepview-1.5.1/AndroidManifest.xml:2:1-9:12
+MERGED from [co.paystack.android.design.widget:pinpad:1.0.4] /Users/smart/.gradle/caches/transforms-2/files-2.1/af6fb58a74e5da562d00984434ae8e80/jetified-pinpad-1.0.4/AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/fc932f3876d8019ec4b41e3fab397718/appcompat-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/26795653227c3bce595007d85e2b576f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/0ebd6f162154ea78abb90e5aa4cb0d33/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/536d8d72f12a6938a33323bd61abc181/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/f520ad28cfe591e63dc3f19fe6b7d904/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/858eb1d45e7238ec775bbbd9060ceda8/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/16a1979e6d8055b56f5022d32eec978d/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/a44e9ec8ef25c955e330d108f0c0df91/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/4e8879eaf0a90debbd8f228b86819a5f/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/095d9d26a556643a396fb65d4b153ca1/appcompat-resources-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/d65f61361f5ea454c75ec0093e72c846/glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/635e19250c7036544f0d21a3d81fe3e0/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/dab9ee95c49dfb4c3689b5907db13e8a/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/5e2d85185e2c9cf3ce6468c85ac69750/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/smart/.gradle/caches/transforms-2/files-2.1/ca05f80e8c1442aea5282cec59fb6e6c/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/smart/.gradle/caches/transforms-2/files-2.1/89251b5e5b1cebb64fd0710117277bda/activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/f1185f822fd719b05bfd2f2268ea3196/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/cfa8394d1e4c76b354ee70c194a4d10c/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/50d03d4bd0678052af20ac77ba46270a/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/b371f05007755b5b122d632c5e2a3b9c/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/6ab5e340f6069bc848323ece0866a023/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/8a0342737ed710f1ce8574f77f5e9a5a/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/950af59e66086231024fd1b5f83e001a/emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/7be95f3480748c2f06ff56101370a8cb/emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.core:core:1.7.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/eee989795ca068f7f6fcd8f341b92ea0/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [com.mikhaellopez:circularprogressbar:3.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/3349be43902e6452b6b946b077d8b389/circularprogressbar-3.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /Users/smart/.gradle/caches/transforms-2/files-2.1/0cbde1b3baf26874e760eb6671074f4d/sdp-android-1.0.6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] /Users/smart/.gradle/caches/transforms-2/files-2.1/dcaf964c2bddacdd68afb7d47db580fd/ssp-android-1.0.6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:2:1-46:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/76e5fddadd743221a2b56f4d5811aa6c/circleimageview-3.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.CodingEnding:PopupLayout:v1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/284cd6bfd041cfb1f6c011230ec0a54c/jetified-PopupLayout-v1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/66ac3c582addf60d925d66d1406f7dc1/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/3ccd4e6d212fe1240736fde0e11872a9/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/1f5af238fd285f783887a025124638a7/lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/631ea08e7551b56d66828f27675a0e24/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/smart/.gradle/caches/transforms-2/files-2.1/1bde397017d1b4392c130ce85db18390/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/f2ddf60eef4ba9b30d1d9034bee5c3ab/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/2776fa7e1fa422c2dd2fdc2cbe78b289/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/ca1e47406510a19b068373880ec17b71/lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/1c404eeb4f9ba935e18af3b219fda337/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/e0db96824e348dae8b50d47caab563d0/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/7dc32f8650d2f58388cf855147d4bd66/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/9b349a843648b005e4afbc6f7a01f9b4/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/5f3ec7768bd38078c814637302e756d9/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/c15e3faa64f93bceb84f3c50242fc587/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-adapters:3.6.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/e9ec22ec3335295ef0fa68e268bc7c79/databinding-adapters-3.6.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.6.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/f7045a1d284b5793352b9e2dbf5f4661/databinding-runtime-3.6.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/ed5fbca9e280b0f63b8e83021d0655f9/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/ac9c23a3003d28249b7d5cb95239a03c/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/4db0c28e3a2b6b58fc68a96393d11112/gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/f28dd3056a62bc58ed9c33201e0687e0/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/995a3f0fe149e5b4d90397a3dd89786c/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/69e5006258c396d64933d9b977262b3a/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/63f8c2160b01ea20b959982b8ea05f04/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/1e14bac3bdccb8cc79e8a9ff568a124a/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/9beff57130e489c9ba51f66afd567e53/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/15891674b0228f983a966da33a609522/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:3.6.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/8173b14d6c569474d75e484314d498ef/viewbinding-3.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.flexbox:flexbox:3.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/49a2e8ca3243e715f05d7ccc21b69cd1/flexbox-3.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:2:1-105:12
+INJECTED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:2:1-105:12
+INJECTED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:2:1-105:12
+	package
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:4:5-37
+		INJECTED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:2:1-105:12
+		INJECTED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:2:1-105:12
+		INJECTED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:7:22-73
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:8:5-72
+MERGED from [androidx.biometric:biometric:1.2.0-alpha04] /Users/smart/.gradle/caches/transforms-2/files-2.1/a415bc5f31d9590078ccd94e616b893c/biometric-1.2.0-alpha04/AndroidManifest.xml:24:5-72
+MERGED from [androidx.biometric:biometric:1.2.0-alpha04] /Users/smart/.gradle/caches/transforms-2/files-2.1/a415bc5f31d9590078ccd94e616b893c/biometric-1.2.0-alpha04/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:8:22-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:9:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:10:5-74
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:10:22-71
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:11:5-72
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:11:22-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:13:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:14:5-66
+MERGED from [co.paystack.android.design.widget:pinpad:1.0.4] /Users/smart/.gradle/caches/transforms-2/files-2.1/af6fb58a74e5da562d00984434ae8e80/jetified-pinpad-1.0.4/AndroidManifest.xml:11:5-66
+MERGED from [co.paystack.android.design.widget:pinpad:1.0.4] /Users/smart/.gradle/caches/transforms-2/files-2.1/af6fb58a74e5da562d00984434ae8e80/jetified-pinpad-1.0.4/AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:14:22-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:15:22-77
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:16:5-77
+MERGED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:28:5-77
+MERGED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:28:5-77
+MERGED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:13:5-77
+MERGED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:16:22-74
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:17:5-19:38
+	android:maxSdkVersion
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:19:9-35
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:18:9-59
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.READ_PHONE_NUMBERS
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:22:5-77
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:22:22-74
+uses-feature#android.hardware.camera.any
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:24:5-26:35
+	android:required
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:26:9-32
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:25:9-51
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:28:9-57
+application
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:31:5-103:19
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] /Users/smart/.gradle/caches/transforms-2/files-2.1/8c97106a58276e3363a1a0cf0822d5af/zxing-1.9.13/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] /Users/smart/.gradle/caches/transforms-2/files-2.1/8c97106a58276e3363a1a0cf0822d5af/zxing-1.9.13/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.13] /Users/smart/.gradle/caches/transforms-2/files-2.1/9db96ea4ea6dd2b9d5a6f0067fca326f/jetified-core-1.9.13/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.13] /Users/smart/.gradle/caches/transforms-2/files-2.1/9db96ea4ea6dd2b9d5a6f0067fca326f/jetified-core-1.9.13/AndroidManifest.xml:11:5-20
+MERGED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:30:5-143:19
+MERGED from [com.google.android.material:material:1.6.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/6b5778ad39fcfe69eedb4a8d0f02b193/material-1.6.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/6b5778ad39fcfe69eedb4a8d0f02b193/material-1.6.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/smart/.gradle/caches/transforms-2/files-2.1/280689815fc22e0e5a96fb2900f15034/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/smart/.gradle/caches/transforms-2/files-2.1/280689815fc22e0e5a96fb2900f15034/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [co.paystack.android:paystack:3.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/578407a48ec6a1e8bf152dd13ee40de2/jetified-paystack-3.1.2/AndroidManifest.xml:10:5-26:19
+MERGED from [co.paystack.android:paystack:3.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/578407a48ec6a1e8bf152dd13ee40de2/jetified-paystack-3.1.2/AndroidManifest.xml:10:5-26:19
+MERGED from [ru.tinkoff.decoro:decoro:1.3.5] /Users/smart/.gradle/caches/transforms-2/files-2.1/e9c0b7ea20eec231adbfb723219bc164/jetified-decoro-1.3.5/AndroidManifest.xml:12:5-20
+MERGED from [ru.tinkoff.decoro:decoro:1.3.5] /Users/smart/.gradle/caches/transforms-2/files-2.1/e9c0b7ea20eec231adbfb723219bc164/jetified-decoro-1.3.5/AndroidManifest.xml:12:5-20
+MERGED from [co.paystack.android.design.widget:pinpad:1.0.4] /Users/smart/.gradle/caches/transforms-2/files-2.1/af6fb58a74e5da562d00984434ae8e80/jetified-pinpad-1.0.4/AndroidManifest.xml:13:5-20
+MERGED from [co.paystack.android.design.widget:pinpad:1.0.4] /Users/smart/.gradle/caches/transforms-2/files-2.1/af6fb58a74e5da562d00984434ae8e80/jetified-pinpad-1.0.4/AndroidManifest.xml:13:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/d65f61361f5ea454c75ec0093e72c846/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/d65f61361f5ea454c75ec0093e72c846/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/7be95f3480748c2f06ff56101370a8cb/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/7be95f3480748c2f06ff56101370a8cb/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/eee989795ca068f7f6fcd8f341b92ea0/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/eee989795ca068f7f6fcd8f341b92ea0/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:15:5-44:19
+MERGED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:15:5-44:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/76e5fddadd743221a2b56f4d5811aa6c/circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/76e5fddadd743221a2b56f4d5811aa6c/circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/1f5af238fd285f783887a025124638a7/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/1f5af238fd285f783887a025124638a7/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/631ea08e7551b56d66828f27675a0e24/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/631ea08e7551b56d66828f27675a0e24/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/smart/.gradle/caches/transforms-2/files-2.1/1bde397017d1b4392c130ce85db18390/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/smart/.gradle/caches/transforms-2/files-2.1/1bde397017d1b4392c130ce85db18390/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/4db0c28e3a2b6b58fc68a96393d11112/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/4db0c28e3a2b6b58fc68a96393d11112/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/15891674b0228f983a966da33a609522/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/15891674b0228f983a966da33a609522/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:35:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/eee989795ca068f7f6fcd8f341b92ea0/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:37:9-35
+	android:label
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:34:9-41
+	android:fullBackupContent
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:32:9-42
+	tools:ignore
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:40:9-48
+	android:roundIcon
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:36:9-50
+	android:icon
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:33:9-45
+	android:theme
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:38:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:39:9-44
+uses-library#org.apache.http.legacy
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:42:9-44:40
+	android:required
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:43:13-50
+service#com.SmartTech.teasyNew.NotificationService
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:46:9-49:39
+	android:enabled
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:48:13-35
+	android:exported
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:49:13-36
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:47:13-48
+activity#com.SmartTech.teasyNew.activity.MainActivity
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:51:9-62:20
+	android:screenOrientation
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:55:13-49
+	android:label
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:54:13-45
+	android:exported
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:53:13-36
+	android:theme
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:52:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:57:13-61:29
+action#android.intent.action.MAIN
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:58:17-69
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:58:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:60:17-77
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:60:27-74
+activity#com.SmartTech.teasyNew.activity.ActivityLogin
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:63:9-66:47
+	android:screenOrientation
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:65:13-49
+	android:theme
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:66:13-44
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:64:13-51
+activity#com.SmartTech.teasyNew.activity.ActivityRegistration
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:67:9-70:47
+	android:screenOrientation
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:69:13-49
+	android:theme
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:70:13-44
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:68:13-58
+activity#com.SmartTech.teasyNew.activity.ActivityPhoto
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:71:9-74:47
+	android:screenOrientation
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:73:13-49
+	android:theme
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:74:13-44
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:72:13-51
+activity#com.SmartTech.teasyNew.activity.ExitActivity
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:75:9-78:62
+	android:autoRemoveFromRecents
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:77:13-49
+	android:theme
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:78:13-59
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:76:13-50
+activity#com.SmartTech.teasyNew.activity.ActivitySplash
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:79:9-82:47
+	android:screenOrientation
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:81:13-49
+	android:theme
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:82:13-44
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:80:13-52
+activity#com.SmartTech.teasyNew.activity.ScannerActivity
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:83:9-87:48
+	android:screenOrientation
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:86:13-49
+	android:label
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:85:13-41
+	android:theme
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:87:13-45
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:84:13-53
+activity#com.SmartTech.teasyNew.activity.ActivityChangePin
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:88:9-92:48
+	android:screenOrientation
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:91:13-49
+	android:label
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:90:13-39
+	android:theme
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:92:13-45
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:89:13-55
+provider#androidx.core.content.FileProvider
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:94:9-102:20
+	android:grantUriPermissions
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:98:13-47
+	android:authorities
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:96:13-68
+	android:exported
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:97:13-37
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:95:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:99:13-101:54
+	android:resource
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:101:17-51
+	android:name
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml:100:17-67
+uses-sdk
+INJECTED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] /Users/smart/.gradle/caches/transforms-2/files-2.1/8c97106a58276e3363a1a0cf0822d5af/zxing-1.9.13/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] /Users/smart/.gradle/caches/transforms-2/files-2.1/8c97106a58276e3363a1a0cf0822d5af/zxing-1.9.13/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.13] /Users/smart/.gradle/caches/transforms-2/files-2.1/9db96ea4ea6dd2b9d5a6f0067fca326f/jetified-core-1.9.13/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.13] /Users/smart/.gradle/caches/transforms-2/files-2.1/9db96ea4ea6dd2b9d5a6f0067fca326f/jetified-core-1.9.13/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/83fb8f89a1302af1b9fe23d5e3e4e4b0/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/83fb8f89a1302af1b9fe23d5e3e4e4b0/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/78182e54cf3663125dcc3259314e1427/gridlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/78182e54cf3663125dcc3259314e1427/gridlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:21:5-23:41
+MERGED from [com.braintreepayments:card-form:5.4.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/2f9fad67ef4fbd4fa642202469ba0e90/card-form-5.4.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.braintreepayments:card-form:5.4.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/2f9fad67ef4fbd4fa642202469ba0e90/card-form-5.4.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.SanojPunchihewa:InAppUpdater:1.0.5] /Users/smart/.gradle/caches/transforms-2/files-2.1/b99bef4d746e6c7da09f2233155cc013/InAppUpdater-1.0.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.SanojPunchihewa:InAppUpdater:1.0.5] /Users/smart/.gradle/caches/transforms-2/files-2.1/b99bef4d746e6c7da09f2233155cc013/InAppUpdater-1.0.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.6.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/6b5778ad39fcfe69eedb4a8d0f02b193/material-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/6b5778ad39fcfe69eedb4a8d0f02b193/material-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.ismaeldivita:chip-navigation-bar:1.4.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/d79d4c8d65b0318ae77ec04a88f74073/chip-navigation-bar-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ismaeldivita:chip-navigation-bar:1.4.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/d79d4c8d65b0318ae77ec04a88f74073/chip-navigation-bar-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/smart/.gradle/caches/transforms-2/files-2.1/280689815fc22e0e5a96fb2900f15034/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/smart/.gradle/caches/transforms-2/files-2.1/280689815fc22e0e5a96fb2900f15034/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [co.paystack.android:paystack:3.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/578407a48ec6a1e8bf152dd13ee40de2/jetified-paystack-3.1.2/AndroidManifest.xml:6:5-8:41
+MERGED from [co.paystack.android:paystack:3.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/578407a48ec6a1e8bf152dd13ee40de2/jetified-paystack-3.1.2/AndroidManifest.xml:6:5-8:41
+MERGED from [ru.tinkoff.decoro:decoro:1.3.5] /Users/smart/.gradle/caches/transforms-2/files-2.1/e9c0b7ea20eec231adbfb723219bc164/jetified-decoro-1.3.5/AndroidManifest.xml:8:5-10:41
+MERGED from [ru.tinkoff.decoro:decoro:1.3.5] /Users/smart/.gradle/caches/transforms-2/files-2.1/e9c0b7ea20eec231adbfb723219bc164/jetified-decoro-1.3.5/AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.biometric:biometric:1.2.0-alpha04] /Users/smart/.gradle/caches/transforms-2/files-2.1/a415bc5f31d9590078ccd94e616b893c/biometric-1.2.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.2.0-alpha04] /Users/smart/.gradle/caches/transforms-2/files-2.1/a415bc5f31d9590078ccd94e616b893c/biometric-1.2.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.darshan-miskin:PinView-Android:v1.1.8] /Users/smart/.gradle/caches/transforms-2/files-2.1/7dc1a90a3b4f74bf960cfc5111fef556/PinView-Android-v1.1.8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.darshan-miskin:PinView-Android:v1.1.8] /Users/smart/.gradle/caches/transforms-2/files-2.1/7dc1a90a3b4f74bf960cfc5111fef556/PinView-Android-v1.1.8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.aabhasr1:OtpView:v1.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/4228dcc3b9cc449f4f204acc6dccb466/OtpView-v1.1.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.aabhasr1:OtpView:v1.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/4228dcc3b9cc449f4f204acc6dccb466/OtpView-v1.1.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.shuhart:stepview:1.5.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/a73d4155e250ca52a615fde2907108bf/stepview-1.5.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.shuhart:stepview:1.5.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/a73d4155e250ca52a615fde2907108bf/stepview-1.5.1/AndroidManifest.xml:5:5-7:41
+MERGED from [co.paystack.android.design.widget:pinpad:1.0.4] /Users/smart/.gradle/caches/transforms-2/files-2.1/af6fb58a74e5da562d00984434ae8e80/jetified-pinpad-1.0.4/AndroidManifest.xml:7:5-9:41
+MERGED from [co.paystack.android.design.widget:pinpad:1.0.4] /Users/smart/.gradle/caches/transforms-2/files-2.1/af6fb58a74e5da562d00984434ae8e80/jetified-pinpad-1.0.4/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/fc932f3876d8019ec4b41e3fab397718/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/fc932f3876d8019ec4b41e3fab397718/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/26795653227c3bce595007d85e2b576f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/26795653227c3bce595007d85e2b576f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/0ebd6f162154ea78abb90e5aa4cb0d33/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/0ebd6f162154ea78abb90e5aa4cb0d33/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/536d8d72f12a6938a33323bd61abc181/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/536d8d72f12a6938a33323bd61abc181/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/f520ad28cfe591e63dc3f19fe6b7d904/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/f520ad28cfe591e63dc3f19fe6b7d904/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/858eb1d45e7238ec775bbbd9060ceda8/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/858eb1d45e7238ec775bbbd9060ceda8/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/16a1979e6d8055b56f5022d32eec978d/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/16a1979e6d8055b56f5022d32eec978d/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/a44e9ec8ef25c955e330d108f0c0df91/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/a44e9ec8ef25c955e330d108f0c0df91/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/4e8879eaf0a90debbd8f228b86819a5f/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/4e8879eaf0a90debbd8f228b86819a5f/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/095d9d26a556643a396fb65d4b153ca1/appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/095d9d26a556643a396fb65d4b153ca1/appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/d65f61361f5ea454c75ec0093e72c846/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/d65f61361f5ea454c75ec0093e72c846/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/635e19250c7036544f0d21a3d81fe3e0/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/635e19250c7036544f0d21a3d81fe3e0/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/dab9ee95c49dfb4c3689b5907db13e8a/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/dab9ee95c49dfb4c3689b5907db13e8a/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/5e2d85185e2c9cf3ce6468c85ac69750/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/5e2d85185e2c9cf3ce6468c85ac69750/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/smart/.gradle/caches/transforms-2/files-2.1/ca05f80e8c1442aea5282cec59fb6e6c/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/smart/.gradle/caches/transforms-2/files-2.1/ca05f80e8c1442aea5282cec59fb6e6c/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/smart/.gradle/caches/transforms-2/files-2.1/89251b5e5b1cebb64fd0710117277bda/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/smart/.gradle/caches/transforms-2/files-2.1/89251b5e5b1cebb64fd0710117277bda/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/f1185f822fd719b05bfd2f2268ea3196/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/f1185f822fd719b05bfd2f2268ea3196/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/cfa8394d1e4c76b354ee70c194a4d10c/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/cfa8394d1e4c76b354ee70c194a4d10c/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/50d03d4bd0678052af20ac77ba46270a/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/50d03d4bd0678052af20ac77ba46270a/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/b371f05007755b5b122d632c5e2a3b9c/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/b371f05007755b5b122d632c5e2a3b9c/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/6ab5e340f6069bc848323ece0866a023/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/6ab5e340f6069bc848323ece0866a023/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/8a0342737ed710f1ce8574f77f5e9a5a/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/8a0342737ed710f1ce8574f77f5e9a5a/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/950af59e66086231024fd1b5f83e001a/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/950af59e66086231024fd1b5f83e001a/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/7be95f3480748c2f06ff56101370a8cb/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/7be95f3480748c2f06ff56101370a8cb/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.core:core:1.7.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/eee989795ca068f7f6fcd8f341b92ea0/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/eee989795ca068f7f6fcd8f341b92ea0/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.mikhaellopez:circularprogressbar:3.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/3349be43902e6452b6b946b077d8b389/circularprogressbar-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikhaellopez:circularprogressbar:3.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/3349be43902e6452b6b946b077d8b389/circularprogressbar-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /Users/smart/.gradle/caches/transforms-2/files-2.1/0cbde1b3baf26874e760eb6671074f4d/sdp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /Users/smart/.gradle/caches/transforms-2/files-2.1/0cbde1b3baf26874e760eb6671074f4d/sdp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] /Users/smart/.gradle/caches/transforms-2/files-2.1/dcaf964c2bddacdd68afb7d47db580fd/ssp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] /Users/smart/.gradle/caches/transforms-2/files-2.1/dcaf964c2bddacdd68afb7d47db580fd/ssp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/76e5fddadd743221a2b56f4d5811aa6c/circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/76e5fddadd743221a2b56f4d5811aa6c/circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.CodingEnding:PopupLayout:v1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/284cd6bfd041cfb1f6c011230ec0a54c/jetified-PopupLayout-v1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.CodingEnding:PopupLayout:v1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/284cd6bfd041cfb1f6c011230ec0a54c/jetified-PopupLayout-v1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/66ac3c582addf60d925d66d1406f7dc1/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/66ac3c582addf60d925d66d1406f7dc1/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/3ccd4e6d212fe1240736fde0e11872a9/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/3ccd4e6d212fe1240736fde0e11872a9/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/1f5af238fd285f783887a025124638a7/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/1f5af238fd285f783887a025124638a7/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/631ea08e7551b56d66828f27675a0e24/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/631ea08e7551b56d66828f27675a0e24/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/smart/.gradle/caches/transforms-2/files-2.1/1bde397017d1b4392c130ce85db18390/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/smart/.gradle/caches/transforms-2/files-2.1/1bde397017d1b4392c130ce85db18390/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/f2ddf60eef4ba9b30d1d9034bee5c3ab/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/f2ddf60eef4ba9b30d1d9034bee5c3ab/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/2776fa7e1fa422c2dd2fdc2cbe78b289/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/2776fa7e1fa422c2dd2fdc2cbe78b289/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/ca1e47406510a19b068373880ec17b71/lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/ca1e47406510a19b068373880ec17b71/lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/1c404eeb4f9ba935e18af3b219fda337/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/1c404eeb4f9ba935e18af3b219fda337/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/e0db96824e348dae8b50d47caab563d0/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/e0db96824e348dae8b50d47caab563d0/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/7dc32f8650d2f58388cf855147d4bd66/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/7dc32f8650d2f58388cf855147d4bd66/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/9b349a843648b005e4afbc6f7a01f9b4/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/9b349a843648b005e4afbc6f7a01f9b4/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/5f3ec7768bd38078c814637302e756d9/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/5f3ec7768bd38078c814637302e756d9/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/c15e3faa64f93bceb84f3c50242fc587/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/c15e3faa64f93bceb84f3c50242fc587/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-adapters:3.6.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/e9ec22ec3335295ef0fa68e268bc7c79/databinding-adapters-3.6.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.6.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/e9ec22ec3335295ef0fa68e268bc7c79/databinding-adapters-3.6.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/f7045a1d284b5793352b9e2dbf5f4661/databinding-runtime-3.6.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/f7045a1d284b5793352b9e2dbf5f4661/databinding-runtime-3.6.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/ed5fbca9e280b0f63b8e83021d0655f9/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/ed5fbca9e280b0f63b8e83021d0655f9/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/ac9c23a3003d28249b7d5cb95239a03c/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/ac9c23a3003d28249b7d5cb95239a03c/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/4db0c28e3a2b6b58fc68a96393d11112/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/4db0c28e3a2b6b58fc68a96393d11112/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/f28dd3056a62bc58ed9c33201e0687e0/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/f28dd3056a62bc58ed9c33201e0687e0/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/995a3f0fe149e5b4d90397a3dd89786c/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/995a3f0fe149e5b4d90397a3dd89786c/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/69e5006258c396d64933d9b977262b3a/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/69e5006258c396d64933d9b977262b3a/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/63f8c2160b01ea20b959982b8ea05f04/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/63f8c2160b01ea20b959982b8ea05f04/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/1e14bac3bdccb8cc79e8a9ff568a124a/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/1e14bac3bdccb8cc79e8a9ff568a124a/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/9beff57130e489c9ba51f66afd567e53/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/9beff57130e489c9ba51f66afd567e53/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/15891674b0228f983a966da33a609522/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/15891674b0228f983a966da33a609522/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:3.6.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/8173b14d6c569474d75e484314d498ef/viewbinding-3.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:3.6.1] /Users/smart/.gradle/caches/transforms-2/files-2.1/8173b14d6c569474d75e484314d498ef/viewbinding-3.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.flexbox:flexbox:3.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/49a2e8ca3243e715f05d7ccc21b69cd1/flexbox-3.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.flexbox:flexbox:3.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/49a2e8ca3243e715f05d7ccc21b69cd1/flexbox-3.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:25:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:27:22-78
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/7be95f3480748c2f06ff56101370a8cb/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/7be95f3480748c2f06ff56101370a8cb/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/1f5af238fd285f783887a025124638a7/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/1f5af238fd285f783887a025124638a7/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/631ea08e7551b56d66828f27675a0e24/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/631ea08e7551b56d66828f27675a0e24/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:35:13-31
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:33:13-68
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:32:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-rc01] /Users/smart/.gradle/caches/transforms-2/files-2.1/def61af56bc3f44ea9394640ae73b4b8/work-runtime-2.7.0-rc01/AndroidManifest.xml:140:25-85
+activity#co.paystack.android.ui.PinActivity
+ADDED from [co.paystack.android:paystack:3.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/578407a48ec6a1e8bf152dd13ee40de2/jetified-paystack-3.1.2/AndroidManifest.xml:11:9-13:63
+	android:theme
+		ADDED from [co.paystack.android:paystack:3.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/578407a48ec6a1e8bf152dd13ee40de2/jetified-paystack-3.1.2/AndroidManifest.xml:13:13-60
+	android:name
+		ADDED from [co.paystack.android:paystack:3.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/578407a48ec6a1e8bf152dd13ee40de2/jetified-paystack-3.1.2/AndroidManifest.xml:12:13-62
+activity#co.paystack.android.ui.OtpActivity
+ADDED from [co.paystack.android:paystack:3.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/578407a48ec6a1e8bf152dd13ee40de2/jetified-paystack-3.1.2/AndroidManifest.xml:14:9-16:63
+	android:theme
+		ADDED from [co.paystack.android:paystack:3.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/578407a48ec6a1e8bf152dd13ee40de2/jetified-paystack-3.1.2/AndroidManifest.xml:16:13-60
+	android:name
+		ADDED from [co.paystack.android:paystack:3.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/578407a48ec6a1e8bf152dd13ee40de2/jetified-paystack-3.1.2/AndroidManifest.xml:15:13-62
+activity#co.paystack.android.ui.AuthActivity
+ADDED from [co.paystack.android:paystack:3.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/578407a48ec6a1e8bf152dd13ee40de2/jetified-paystack-3.1.2/AndroidManifest.xml:17:9-19:63
+	android:theme
+		ADDED from [co.paystack.android:paystack:3.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/578407a48ec6a1e8bf152dd13ee40de2/jetified-paystack-3.1.2/AndroidManifest.xml:19:13-60
+	android:name
+		ADDED from [co.paystack.android:paystack:3.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/578407a48ec6a1e8bf152dd13ee40de2/jetified-paystack-3.1.2/AndroidManifest.xml:18:13-63
+activity#co.paystack.android.ui.CardActivity
+ADDED from [co.paystack.android:paystack:3.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/578407a48ec6a1e8bf152dd13ee40de2/jetified-paystack-3.1.2/AndroidManifest.xml:20:9-22:64
+	android:theme
+		ADDED from [co.paystack.android:paystack:3.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/578407a48ec6a1e8bf152dd13ee40de2/jetified-paystack-3.1.2/AndroidManifest.xml:22:13-61
+	android:name
+		ADDED from [co.paystack.android:paystack:3.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/578407a48ec6a1e8bf152dd13ee40de2/jetified-paystack-3.1.2/AndroidManifest.xml:21:13-63
+activity#co.paystack.android.ui.AddressVerificationActivity
+ADDED from [co.paystack.android:paystack:3.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/578407a48ec6a1e8bf152dd13ee40de2/jetified-paystack-3.1.2/AndroidManifest.xml:23:9-25:54
+	android:theme
+		ADDED from [co.paystack.android:paystack:3.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/578407a48ec6a1e8bf152dd13ee40de2/jetified-paystack-3.1.2/AndroidManifest.xml:25:13-51
+	android:name
+		ADDED from [co.paystack.android:paystack:3.1.2] /Users/smart/.gradle/caches/transforms-2/files-2.1/578407a48ec6a1e8bf152dd13ee40de2/jetified-paystack-3.1.2/AndroidManifest.xml:24:13-78
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from [androidx.biometric:biometric:1.2.0-alpha04] /Users/smart/.gradle/caches/transforms-2/files-2.1/a415bc5f31d9590078ccd94e616b893c/biometric-1.2.0-alpha04/AndroidManifest.xml:27:5-74
+	android:name
+		ADDED from [androidx.biometric:biometric:1.2.0-alpha04] /Users/smart/.gradle/caches/transforms-2/files-2.1/a415bc5f31d9590078ccd94e616b893c/biometric-1.2.0-alpha04/AndroidManifest.xml:27:22-71
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/7be95f3480748c2f06ff56101370a8cb/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/7be95f3480748c2f06ff56101370a8cb/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/7be95f3480748c2f06ff56101370a8cb/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+activity#com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity
+ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:18:9-24:45
+	android:process
+		ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:23:13-64
+	android:enabled
+		ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:20:13-36
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:24:13-42
+	android:launchMode
+		ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:22:13-48
+	android:exported
+		ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:19:13-100
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:25:9-29:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:28:13-42
+	android:exported
+		ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:27:13-37
+	android:theme
+		ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:29:13-62
+	android:name
+		ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:26:13-93
+service#com.google.android.play.core.assetpacks.AssetPackExtractionService
+ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:32:9-39:19
+	android:enabled
+		ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:34:13-36
+	android:exported
+		ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:33:13-94
+meta-data#com.google.android.play.core.assetpacks.versionCode
+ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:36:13-38:41
+	android:value
+		ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:38:17-38
+	android:name
+		ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:37:17-83
+service#com.google.android.play.core.assetpacks.ExtractionForegroundService
+ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:40:9-43:40
+	android:enabled
+		ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:42:13-36
+	android:exported
+		ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from [com.google.android.play:core:1.10.3] /Users/smart/.gradle/caches/transforms-2/files-2.1/b697bbf2996ad4cceb1c695eb6511b45/core-1.10.3/AndroidManifest.xml:41:13-95
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/1f5af238fd285f783887a025124638a7/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/1f5af238fd285f783887a025124638a7/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/smart/.gradle/caches/transforms-2/files-2.1/1f5af238fd285f783887a025124638a7/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] /Users/smart/.gradle/caches/transforms-2/files-2.1/1bde397017d1b4392c130ce85db18390/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/smart/.gradle/caches/transforms-2/files-2.1/1bde397017d1b4392c130ce85db18390/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/smart/.gradle/caches/transforms-2/files-2.1/1bde397017d1b4392c130ce85db18390/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/smart/.gradle/caches/transforms-2/files-2.1/1bde397017d1b4392c130ce85db18390/room-runtime-2.2.5/AndroidManifest.xml:26:13-74

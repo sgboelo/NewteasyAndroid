@@ -1,0 +1,184 @@
+{
+
+  "Abia": {
+    "name": "Abia",
+    "enabled": "false"
+  },
+
+  "Adamawa": {
+    "name": "Adamawa",
+    "enabled": "false"
+  },
+
+  "Anambra": {
+    "name": "Anambra",
+    "enabled": "false"
+  },
+
+  "Akwa Ibom": {
+    "name": "Akwa Ibom",
+    "enabled": "false"
+  },
+
+  "Bauchi": {
+    "name": "Bauchi",
+    "enabled": "false"
+  },
+
+  "Bayelsa": {
+    "name": "Bayelsa",
+    "enabled": "false"
+  },
+
+  "Benue": {
+    "name": "Benue",
+    "enabled": "false"
+  },
+
+  "Borno": {
+    "name": "Borno",
+    "enabled": "false"
+  },
+
+  "Cross River": {
+    "name": "Cross River",
+    "enabled": "false"
+  },
+
+  "Delta": {
+    "name": "Delta",
+    "enabled": "false"
+  },
+
+  "Ebonyi": {
+    "name": "Ebonyi",
+    "enabled": "false"
+  },
+
+  "Enugu": {
+    "name": "Enugu",
+    "enabled": "false"
+  },
+
+  "Edo": {
+    "name": "Edo",
+    "enabled": "false"
+  },
+
+  "Ekiti": {
+    "name": "Ekiti",
+    "enabled": "false"
+  },
+
+  "Gombe": {
+    "name": "Gombe",
+    "enabled": "false"
+  },
+
+  "Imo": {
+    "name": "Imo",
+    "enabled": "false"
+  },
+
+  "Jigawa": {
+    "name": "Jigawa",
+    "enabled": "false"
+  },
+
+  "Kaduna": {
+    "name": "Kaduna",
+    "enabled": "true",
+    "hospital_list": "make_payment/hospital/hospital_list_kaduna.json"
+  },
+
+  "Kano": {
+    "name": "Kano",
+    "enabled": "false"
+  },
+
+  "Katsina": {
+    "name": "Katsina",
+    "enabled": "false"
+  },
+
+  "Kebbi": {
+    "name": "Kebbi",
+    "enabled": "false"
+  },
+
+  "Kogi": {
+    "name": "Kogi",
+    "enabled": "false"
+  },
+
+  "Kwara": {
+    "name": "Kwara",
+    "enabled": "false"
+  },
+
+  "Lagos": {
+    "name": "Lagos",
+    "enabled": "false"
+  },
+
+  "Nasarawa": {
+    "name": "Nasarawa",
+    "enabled": "false"
+  },
+
+  "Niger": {
+    "name": "Niger",
+    "enabled": "false"
+  },
+
+  "Ogun": {
+    "name": "Ogun",
+    "enabled": "false"
+  },
+
+  "Ondo": {
+    "name": "Ondo",
+    "enabled": "false"
+  },
+
+  "Osun": {
+    "name": "Osun",
+    "enabled": "false"
+  },
+
+  "Oyo": {
+    "name": "Oyo",
+    "enabled": "false"
+  },
+
+  "Plateau": {
+    "name": "Plateau",
+    "enabled": "false"
+  },
+
+  "Rivers": {
+    "name": "Rivers",
+    "enabled": "false"
+  },
+
+  "Sokoto": {
+    "name": "Sokoto",
+    "enabled": "false"
+  },
+
+  "Taraba": {
+    "name": "Taraba",
+    "enabled": "false"
+  },
+
+  "Yobe": {
+    "name": "Yobe",
+    "enabled": "false"
+  },
+
+  "Zamfara": {
+    "name": "Zamfara",
+    "enabled": "false"
+  }
+
+}

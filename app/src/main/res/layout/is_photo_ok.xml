@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="4"
+        android:background="#000">
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/photoContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="#000"
+        android:gravity="center_horizontal|center_vertical">
+        <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/photoPreview"
+                android:gravity="top"/>
+        </LinearLayout>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:gravity="bottom"
+            android:background="#000">
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Take another photo"
+                android:id="@+id/button4"
+                android:onClick="retakePhoto"
+                android:textColor="#FFF"
+                android:background="#80000000"
+                android:typeface="serif"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"/>
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Next"
+                android:id="@+id/button5"
+                android:onClick="photoOk"
+                android:textColor="#FFF"
+                android:background="#80000000"
+                android:typeface="serif"
+                android:paddingLeft="1dp"/>
+    </LinearLayout>
+</LinearLayout>

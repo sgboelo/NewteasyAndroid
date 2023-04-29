@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="@dimen/_230sdp"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="bottom"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#8502355A"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center|end"
+                    android:orientation="horizontal" />
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/profile_image3"
+                    android:layout_width="@dimen/_50sdp"
+                    android:layout_height="@dimen/_50sdp"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    android:src="@drawable/dashboard_find_agent_active"
+                    app:civ_border_color="#FFFFFF"
+                    app:civ_border_width="2dp" />
+
+                <com.SmartTech.teasyNew.view.menu.MenuItem
+
+                    style="@style/drawer_menu_item"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+                        <com.SmartTech.teasyNew.view.CustomTextView
+                            android:id="@+id/User_Name"
+                            style="@style/drawer_menu_item_text"
+                            android:layout_marginLeft="0dp"
+                            android:gravity="center"
+                            android:text="Smart Lahnee Gbeolo"
+                            android:textColor="@color/colorAccent"
+                            android:textSize="@dimen/_15sdp"
+                            android:textStyle="bold" />
+
+                        <com.SmartTech.teasyNew.view.CustomTextView
+                            android:id="@+id/Account_ID"
+                            style="@style/drawer_menu_item_text"
+                            android:layout_marginLeft="0dp"
+                            android:gravity="center"
+                            android:text="08090933000"
+                            android:textColor="@color/colorAccent"
+                            android:textSize="@dimen/_15sdp"
+                            android:textStyle="bold" />
+
+                        <com.SmartTech.teasyNew.view.CustomTextView
+                            android:id="@+id/customTextView2"
+                            style="@style/drawer_menu_item_text"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="0dp"
+                            android:gravity="center"
+                            android:text="Agent Short Code"
+                            android:textColor="@color/colorAccent"
+                            android:textSize="@dimen/_15sdp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                </com.SmartTech.teasyNew.view.menu.MenuItem>
+
+            </LinearLayout>
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_200sdp"
+                android:layout_weight="1">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/_20sdp"
+                    android:orientation="vertical">
+
+
+                    <com.SmartTech.teasyNew.view.menu.MenuItem
+                        style="@style/drawer_menu_item"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/_5sdp"
+                        android:layout_marginTop="@dimen/_10sdp"
+                        android:layout_marginEnd="@dimen/_5sdp"
+                        android:background="@drawable/conte">
+
+                        <View
+                            style="@style/drawer_menu_item_icon"
+                            android:background="@drawable/icon_find_agent" />
+
+                        <com.SmartTech.teasyNew.view.CustomTextView
+                            android:id="@+id/mUser_Type"
+                            style="@style/drawer_menu_item_text"
+                            android:text="User Type: Agent"
+                            android:textSize="@dimen/_15sdp" />
+                    </com.SmartTech.teasyNew.view.menu.MenuItem>
+
+                    <com.SmartTech.teasyNew.view.menu.MenuItem
+                        android:id="@+id/Fund_wallet"
+                        style="@style/drawer_menu_item"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/_5sdp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginEnd="@dimen/_5sdp"
+                        android:background="@drawable/conte">
+
+                        <View
+                            style="@style/drawer_menu_item_icon"
+                            android:background="@drawable/icon_fund_wallet" />
+
+                        <com.SmartTech.teasyNew.view.CustomTextView
+                            android:id="@+id/fundwallet"
+                            style="@style/drawer_menu_item_text"
+                            android:text="Fund Wallet"
+                            android:textSize="@dimen/_15sdp" />
+                    </com.SmartTech.teasyNew.view.menu.MenuItem>
+
+                    <com.SmartTech.teasyNew.view.menu.MenuItem
+                        android:id="@+id/Change_pin"
+                        style="@style/drawer_menu_item"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/_5sdp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginEnd="@dimen/_5sdp"
+                        android:background="@drawable/conte">
+
+                        <View
+                            style="@style/drawer_menu_item_icon"
+                            android:background="@drawable/icon_account_settings" />
+
+                        <com.SmartTech.teasyNew.view.CustomTextView
+                            style="@style/drawer_menu_item_text"
+                            android:text="Change PIN"
+                            android:textSize="@dimen/_15sdp" />
+                    </com.SmartTech.teasyNew.view.menu.MenuItem>
+
+                    <com.SmartTech.teasyNew.view.menu.MenuItem
+                        android:id="@+id/Register"
+                        style="@style/drawer_menu_item"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="@dimen/_5sdp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginEnd="@dimen/_5sdp"
+                        android:background="@drawable/conte">
+
+                        <View
+                            style="@style/drawer_menu_item_icon"
+                            android:background="@drawable/icon_account_settings" />
+
+                        <com.SmartTech.teasyNew.view.CustomTextView
+                            style="@style/drawer_menu_item_text"
+                            android:text="Register Customer"
+                            android:textSize="@dimen/_15sdp" />
+                    </com.SmartTech.teasyNew.view.menu.MenuItem>
+
+                    <com.SmartTech.teasyNew.view.menu.MenuItem
+                        android:id="@+id/T_history"
+                        style="@style/drawer_menu_item"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="@dimen/_5sdp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginEnd="@dimen/_5sdp"
+                        android:background="@drawable/conte">
+
+                        <View
+                            style="@style/drawer_menu_item_icon"
+                            android:background="@android:drawable/ic_menu_recent_history" />
+
+                        <com.SmartTech.teasyNew.view.CustomTextView
+                            style="@style/drawer_menu_item_text"
+                            android:text="Transaction Notification"
+                            android:textSize="@dimen/_15sdp" />
+                    </com.SmartTech.teasyNew.view.menu.MenuItem>
+
+                    <com.SmartTech.teasyNew.view.menu.MenuItem
+                        android:id="@+id/support"
+                        style="@style/drawer_menu_item"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="@dimen/_5sdp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginEnd="@dimen/_5sdp"
+                        android:background="@drawable/conte">
+
+                        <View
+                            style="@style/drawer_menu_item_icon"
+                            android:background="@drawable/ic_baseline_support_agent_24" />
+
+                        <com.SmartTech.teasyNew.view.CustomTextView
+                            style="@style/drawer_menu_item_text"
+                            android:text="Support"
+                            android:textSize="@dimen/_15sdp" />
+                    </com.SmartTech.teasyNew.view.menu.MenuItem>
+                </LinearLayout>
+            </ScrollView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:gravity="bottom"
+            android:orientation="horizontal">
+
+            <com.SmartTech.teasyNew.view.CustomTextView
+                android:id="@+id/FAQ"
+                style="@style/drawer_menu_item_text"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_margin="0dp"
+                android:layout_weight="1"
+                android:background="@color/colorAccent"
+                android:gravity="center"
+                android:text="FAQ"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_20sdp" />
+
+            <com.SmartTech.teasyNew.view.CustomTextView
+                android:id="@+id/logout"
+                style="@style/drawer_menu_item_text"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_margin="0dp"
+                android:layout_weight="1"
+                android:background="@color/colorAccent"
+                android:gravity="center"
+                android:text="Logout"
+                android:textColor="@color/color_bottom_menu_item_active"
+                android:textSize="@dimen/_20sdp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

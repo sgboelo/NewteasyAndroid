@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <com.SmartTech.teasyNew.view.CustomTextView
+        android:tag="dropdown_hint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Input to filter values"
+        app:textFont="RalewaySemiBold"
+        android:layout_marginLeft="15dp"
+        android:textColor="#ff4e02"
+        android:visibility="gone"/>
+
+    <RelativeLayout
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border"
+        android:gravity="center_vertical"
+        android:padding="2dp">
+
+        <com.SmartTech.teasyNew.view.CustomEditText
+            android:tag="dropdown_input_field"
+            android:gravity="center_vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#fff"
+            android:paddingLeft="15dp"
+            android:paddingRight="40dp"
+            android:paddingTop="12dp"
+            android:paddingBottom="12dp"
+            android:hint="HINT"
+            android:textColorHint="#60707b"
+            android:textColor="#60707b"
+            android:inputType="textFilter|textMultiLine"
+            android:textAllCaps="false"
+            android:textSize="14dp"/>
+
+        <com.SmartTech.teasyNew.view.CustomTextView
+            android:tag="arrow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=">"
+            app:textFont="OpenSansLight"
+            android:textSize="20sp"
+            android:textColor="#181818"
+            android:layout_marginRight="15dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"/>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:visibility="gone"
+        android:tag="dropdown_item_list"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/border"
+        android:padding="1dp">
+    </LinearLayout>
+</LinearLayout>

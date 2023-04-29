@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="FAQ">
+        <item>How to hide Balance ?</item>
+        <item>Navigating the Home Screen</item>
+        <item>Navigating the Profile Dialog</item>
+        <item>Navigating the Transaction History Dialog</item>
+        <item>HOW TO FUND WALLET</item>
+        <item>HOW TO ENABLE PUSH NOTIFICATION?</item>
+        <item>HOW TO CHANGE PIN</item>
+        <item>HOW TO REGISTER CUSTOMER AS AN AGENT</item>
+        <item>HOW TO BUY AIRTIME AND DATA</item>
+        <item>HOW TO MAKE PAYMENT FOR ELECTRICITY (AEDC)</item>
+        <item>HOW TO MAKE PAYMENT FOR CABLE TV (DSTV,GOTV ETC)</item>
+        <item>HOW TO MAKE PAYMENT –INTERNET</item>
+        <item>HOW TO SEND MONEY -WALLET TO BANK</item>
+        <item>HOW TO SEND MONEY -WALLET TO MMO</item>
+        <item>HOW TO SEND MONEY -WALLET TO WALLET</item>
+        <item>HOW TO MAKE FRSC PAYMENT</item>
+        <item>HOW TO MAKE NIS PAYMENT</item>
+        <item>HOW CAN YOU ENSURE THAT SENDING MONEY FROM A MOBILE PHONE IS SECURE?</item>
+        <item>HOW TO GET TEASY POS</item>
+        <item>STEPS ON HOW TO OPERATE THE POS</item>
+        <item>FOR ALL POS AGENTS</item>
+        <item>POS PRICING TARIFF</item>
+        <item>OTHER PRODUCT CHARGE</item>
+    </string-array>
+</resources>

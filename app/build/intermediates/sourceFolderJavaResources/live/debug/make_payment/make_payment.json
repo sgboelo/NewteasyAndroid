@@ -1,0 +1,1620 @@
+{
+
+  "states": [
+    {
+      "name": "Abia",
+      "enabled": false
+    },
+
+    {
+      "name": "Adamawa",
+      "enabled": false
+    },
+
+    {
+      "name": "Anambra",
+      "enabled": false
+    },
+
+    {
+      "name": "Akwa Ibom",
+      "enabled": false
+    },
+
+    {
+      "name": "Bauchi",
+      "enabled": false
+    },
+
+    {
+      "name": "Bayelsa",
+      "enabled": false
+    },
+
+    {
+      "name": "Benue",
+      "enabled": false
+    },
+
+    {
+      "name": "Borno",
+      "enabled": false
+    },
+
+    {
+      "name": "Cross River",
+      "enabled": false
+    },
+
+    {
+      "name": "Delta",
+      "enabled": false
+    },
+
+    {
+      "name": "Ebonyi",
+      "enabled": false
+    },
+
+    {
+      "name": "Enugu",
+      "enabled": false
+    },
+
+    {
+      "name": "Edo",
+      "enabled": false
+    },
+
+    {
+      "name": "Ekiti",
+      "enabled": false
+    },
+
+    {
+      "name": "Gombe",
+      "enabled": false
+    },
+
+    {
+      "name": "Imo",
+      "enabled": false
+    },
+
+    {
+      "name": "Jigawa",
+      "enabled": false
+    },
+
+    {
+      "name": "Kaduna",
+      "enabled": false
+    },
+
+    {
+      "name": "Kano",
+      "enabled": false
+    },
+
+    {
+      "name": "Katsina",
+      "enabled": false
+    },
+
+    {
+      "name": "Kebbi",
+      "enabled": false
+    },
+
+    {
+      "name": "Kogi",
+      "enabled": true,
+      "id": "KG",
+      "lgaList": [
+        {
+          "name": "Adavi",
+          "id": "01"
+        },
+
+        {
+          "name": "Ajaokuta",
+          "id": "02"
+        },
+
+        {
+          "name": "Ankpa",
+          "id": "03"
+        },
+
+        {
+          "name": "Ankpa",
+          "id": "04"
+        },
+
+        {
+          "name": "Dekina",
+          "id": "05"
+        },
+
+        {
+          "name": "Ibaji",
+          "id": "06"
+        },
+
+        {
+          "name": "Idah",
+          "id": "07"
+        },
+
+        {
+          "name": "Igalamela-Odolu",
+          "id": "08"
+        },
+
+        {
+          "name": "Ijumu",
+          "id": "09"
+        },
+
+        {
+          "name": "Kabba/Bunu",
+          "id": "10"
+        },
+
+        {
+          "name": "Koton Karfe",
+          "id": "11"
+        },
+
+        {
+          "name": "Ijumu",
+          "id": "12"
+        },
+
+        {
+          "name": "Mopa-Muro",
+          "id": "13"
+        },
+
+        {
+          "name": "Ofu",
+          "id": "14"
+        },
+
+        {
+          "name": "Ogori/Magongo",
+          "id": "15"
+        },
+
+        {
+          "name": "Okehi",
+          "id": "16"
+        },
+
+        {
+          "name": "Okene",
+          "id": "17"
+        },
+
+        {
+          "name": "Olamaboro",
+          "id": "18"
+        },
+
+        {
+          "name": "Omala",
+          "id": "19"
+        },
+
+        {
+          "name": "Yagba East",
+          "id": "20"
+        },
+
+        {
+          "name": "Yagba West",
+          "id": "21"
+        }
+      ]
+    },
+
+    {
+      "name": "Kwara",
+      "enabled": false
+    },
+
+    {
+      "name": "Lagos",
+      "enabled": false
+    },
+
+    {
+      "name": "Nasarawa",
+      "enabled": false
+    },
+
+    {
+      "name": "Niger",
+      "enabled": false
+    },
+
+    {
+      "name": "Ogun",
+      "enabled": false
+    },
+
+    {
+      "name": "Ondo",
+      "enabled": false
+    },
+
+    {
+      "name": "Osun",
+      "enabled": false
+    },
+
+    {
+      "name": "Oyo",
+      "enabled": false
+    },
+
+    {
+      "name": "Plateau",
+      "enabled": false
+    },
+
+    {
+      "name": "Rivers",
+      "enabled": false
+    },
+
+    {
+      "name": "Sokoto",
+      "enabled": false
+    },
+
+    {
+      "name": "Taraba",
+      "enabled": false
+    },
+
+    {
+      "name": "Yobe",
+      "enabled": false
+    },
+
+    {
+      "name": "Zamfara",
+      "enabled": false
+    }
+  ],
+
+  "revenues": [
+    {
+      "id": "01",
+      "name": "Shops and Kiosk rate",
+      "items": [
+        {
+          "id": "11",
+          "name": "Shop Permit - Small",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "3,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "2,400.00"
+            },
+            {
+              "name": "Category C",
+              "value": "1,200.00"
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "name": "Shop Permit - Medium",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "5,000.00"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "name": "Shop Permit - Large",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "10,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "8,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "5,000.00"
+            }
+          ]
+        },
+        {
+          "id": "14",
+          "name": "Ex-Large - Big Department Stores",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "200,000.00"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "name": "Kiosk Permit",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "1,200.00"
+            },
+            {
+              "name": "Category B",
+              "value": "1,200.00"
+            },
+            {
+              "name": "Category C",
+              "value": "600.00"
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "name": "Container/Temporary shop - Small",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "2,500.00"
+            },
+            {
+              "name": "Category B",
+              "value": "1,200.00"
+            },
+            {
+              "name": "Category C",
+              "value": "600.00"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "name": "Container/Temporary shop - Small - Large",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "3,500.00"
+            },
+            {
+              "name": "Category B",
+              "value": "2,500.00"
+            },
+            {
+              "name": "Category C",
+              "value": "1,500.00"
+            }
+          ]
+        },
+        {
+          "id": "18",
+          "name": "Workshop permits by Artisans - Small",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "3,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "2,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "600.00"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "name": "Workshop permits by Artisans -  Large",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "10,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "5,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "2,500.00"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "02",
+      "name": "Tenement Rate (private and commercial property)",
+      "subheads": [
+        {
+          "name": "Commercial Property",
+          "items": [
+            {
+              "id": "21",
+              "name": "Petrol station",
+              "categories": [
+                {
+                  "name": "Category A",
+                  "value": "50,000.00"
+                },
+                {
+                  "name": "Category B",
+                  "value": "30,000.00"
+                },
+                {
+                  "name": "Category C",
+                  "value": "10,000.00"
+                }
+              ]
+            },
+            {
+              "id": "22",
+              "name": "Banks",
+              "categories": [
+                {
+                  "name": "Category A",
+                  "value": "100,000.00"
+                },
+                {
+                  "name": "Category B",
+                  "value": "50,000.00"
+                },
+                {
+                  "name": "Category C",
+                  "value": "25,000.00"
+                }
+              ]
+            },
+            {
+              "id": "23",
+              "name": "Communication mast",
+              "categories": [
+                {
+                  "name": "Category A",
+                  "value": "100,000.00"
+                },
+                {
+                  "name": "Category B",
+                  "value": "100,000.00"
+                },
+                {
+                  "name": "Category C",
+                  "value": "100,000.00"
+                }
+              ]
+            },
+            {
+              "id": "24",
+              "name": "Other Commercial premises",
+              "categories": [
+                {
+                  "name": "Category A",
+                  "value": "25,000.00"
+                },
+                {
+                  "name": "Category B",
+                  "value": "20,000.00"
+                },
+                {
+                  "name": "Category C",
+                  "value": "10,000.00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Residential",
+          "items": [
+            {
+              "id": "26",
+              "name": "Duplex/ one storey building",
+              "categories": [
+                {
+                  "name": "Category A",
+                  "value": "10,000.00"
+                },
+                {
+                  "name": "Category B",
+                  "value": "5,000.00"
+                },
+                {
+                  "name": "Category C",
+                  "value": "2,500.00"
+                }
+              ]
+            },
+            {
+              "id": "27",
+              "name": "Bungalow",
+              "categories": [
+                {
+                  "name": "Category A",
+                  "value": "5,000.00"
+                },
+                {
+                  "name": "Category B",
+                  "value": "3,500.00"
+                },
+                {
+                  "name": "Category C",
+                  "value": "2,500.00"
+                }
+              ]
+            },
+            {
+              "id": "28",
+              "name": "Block of flat over one storey building",
+              "categories": [
+                {
+                  "name": "Category A",
+                  "value": "12,000.00"
+                },
+                {
+                  "name": "Category B",
+                  "value": "6,000.00"
+                },
+                {
+                  "name": "Category C",
+                  "value": "3,000.00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "03",
+      "name": "Slaughter Slab Fees",
+      "items": [
+        {
+          "id": "31",
+          "name": "Butcher license fee (per annum)",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "3,600.00"
+            },
+            {
+              "name": "Category B",
+              "value": "2,400.00"
+            },
+            {
+              "name": "Category C",
+              "value": "1,200.00"
+            }
+          ]
+        },
+        {
+          "id": "32",
+          "name": "Cow slaughter per head",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "200.00"
+            },
+            {
+              "name": "Category B",
+              "value": "150.00"
+            },
+            {
+              "name": "Category C",
+              "value": "50.00"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "name": "Goat/Sheep slaughter per head ",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "100.00"
+            },
+            {
+              "name": "Category B",
+              "value": "100.00"
+            },
+            {
+              "name": "Category C",
+              "value": "50.00"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "04",
+      "name": "Merriment and Road closure levies",
+      "items": [
+        {
+          "id": "41",
+          "name": "Noise control fees",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "10,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "5,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "2,000.00"
+            }
+          ]
+        },
+        {
+          "id": "42",
+          "name": "Blocking of local government road",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "20,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "10,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "5,000.00"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "05",
+      "name": "Food license Permit (for restaurants, bakeries and other places where food is sold)",
+      "items": [
+        {
+          "id": "51",
+          "name": "Restaurants ",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "15,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "10,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "5,000.00"
+            }
+          ]
+        },
+        {
+          "id": "52",
+          "name": "Bakeries",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "15,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "10,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "5,000.00"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "name": "Buka/Local Restaurant",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "3,600.00"
+            },
+            {
+              "name": "Category B",
+              "value": "2,400.00"
+            },
+            {
+              "name": "Category C",
+              "value": "1,200.00"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "06",
+      "name": "Liquor License fee",
+      "items": [
+        {
+          "id": "61",
+          "name": "Beer parlour",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "12,500.00"
+            },
+            {
+              "name": "Category B",
+              "value": "6,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "3,000.00"
+            }
+          ]
+        },
+        {
+          "id": "62",
+          "name": "Wholesale fee",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "15,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "7,500.00"
+            },
+            {
+              "name": "Category C",
+              "value": "3,500.00"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "name": "Local drinks",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "3,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "1,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "1,000.00"
+            }
+          ]
+        },
+        {
+          "id": "64",
+          "name": "Hotel/Guest Inn",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "20,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "10,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "5,000.00"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "07",
+      "name": "Radio and TV license fees (other than radio and television transmitter)",
+      "items": [
+        {
+          "id": "71",
+          "name": "Radio & TV fee ",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "5,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "2,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "500.00"
+            }
+          ]
+        },
+        {
+          "id": "72",
+          "name": "Vehicle Radio fee ",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "1,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "500.00"
+            },
+            {
+              "name": "Category C",
+              "value": "500.00"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "08",
+      "name": "Naming of street registration fee (outside state Capital)",
+      "items": [
+        {
+          "id": "80",
+          "name": "Naming of street registration fee (outside state Capital)",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "20,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "10,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "5,000.00"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "09",
+      "name": "Right of occupancy fees on lands in the Rural Areas",
+      "items": [
+        {
+          "id": "91",
+          "name": "Residential (per plot)",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "5,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "2,500.00"
+            },
+            {
+              "name": "Category C",
+              "value": "1,000.00"
+            }
+          ]
+        },
+        {
+          "id": "92",
+          "name": "Commercial (per plot)",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "10,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "5,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "2,000.00"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "10",
+      "name": "Market taxes and levies excluding any market where State Finance is involved",
+      "items": [
+        {
+          "id": "A1",
+          "name": "Permanent Stalls (per-annum)",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "12,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "3,600.00"
+            },
+            {
+              "name": "Category C",
+              "value": "1,200.00"
+            }
+          ]
+        },
+        {
+          "id": "A2",
+          "name": "Market Space (per-market day)",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "100.00"
+            },
+            {
+              "name": "Category B",
+              "value": "50.00"
+            },
+            {
+              "name": "Category C",
+              "value": "20.00"
+            }
+          ]
+        },
+        {
+          "id": "A3",
+          "name": "Market/Motor Park Hawkers (daily)",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "30.00"
+            },
+            {
+              "name": "Category B",
+              "value": "20.00"
+            },
+            {
+              "name": "Category C",
+              "value": "10.00"
+            }
+          ]
+        },
+        {
+          "id": "A4",
+          "name": "Market Hawkers (per market day)",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "30.00"
+            },
+            {
+              "name": "Category B",
+              "value": "20.00"
+            },
+            {
+              "name": "Category C",
+              "value": "10.00"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "11",
+      "name": "Motor Park Levies",
+      "items": [
+        {
+          "id": "B1",
+          "name": "Trailers/Lorry",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "2,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "1,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "500.00"
+            }
+          ]
+        },
+        {
+          "id": "B2",
+          "name": "Center",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "500.00"
+            },
+            {
+              "name": "Category B",
+              "value": "200.00"
+            },
+            {
+              "name": "Category C",
+              "value": "100.00"
+            }
+          ]
+        },
+        {
+          "id": "B3",
+          "name": "Buses/Pickup Van,",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "100.00"
+            },
+            {
+              "name": "Category B",
+              "value": "50.00"
+            },
+            {
+              "name": "Category C",
+              "value": "20.00"
+            }
+          ]
+        },
+        {
+          "id": "B4",
+          "name": "Car",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "50.00"
+            },
+            {
+              "name": "Category B",
+              "value": "20.00"
+            },
+            {
+              "name": "Category C",
+              "value": "10.00"
+            }
+          ]
+        },
+        {
+          "id": "B5",
+          "name": "Motorcycle",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "20.00"
+            },
+            {
+              "name": "Category B",
+              "value": "20.00"
+            },
+            {
+              "name": "Category C",
+              "value": "10.00"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "12",
+      "name": "Bicycle, Truck, Canoe, Wheelbarrow and Cart Fees other than Mechanically",
+      "items": [
+        {
+          "id": "C2",
+          "name": "Bicycle Licence fee",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "200.00"
+            },
+            {
+              "name": "Category B",
+              "value": "50.00"
+            },
+            {
+              "name": "Category C",
+              "value": "20.00"
+            }
+          ]
+        },
+        {
+          "id": "C3",
+          "name": "Canoe Licence fee",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "1,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "500.00"
+            },
+            {
+              "name": "Category C",
+              "value": "200.00"
+            }
+          ]
+        },
+        {
+          "id": "C4",
+          "name": "Wheelbarrows/ Cart fee",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "600.00"
+            },
+            {
+              "name": "Category B",
+              "value": "240.00"
+            },
+            {
+              "name": "Category C",
+              "value": "100.00"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "13",
+      "name": "Cattle Tax payable by cattle farmers only",
+      "items": [
+        {
+          "id": "D1",
+          "name": "Cattle Farmer Permit",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "2,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "1,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "500.0"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "14",
+      "name": "Religious places Establishment Permit fee",
+      "items": [
+        {
+          "id": "E1",
+          "name": "Religious places Establishment permit fee",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "5,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "3,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "1,200.00"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "15",
+      "name": "Signboard and Advertisement permit fee",
+      "subheads": [
+        {
+          "name": "Stationary/Fixed Advert",
+          "items": [
+            {
+              "id": "F1",
+              "name": "Directional Signboard fee",
+              "categories": [
+                {
+                  "name": "Category A",
+                  "value": "20,000.00"
+                },
+                {
+                  "name": "Category B",
+                  "value": "10,000.00"
+                },
+                {
+                  "name": "Category C",
+                  "value": "2,500.00"
+                }
+              ]
+            },
+            {
+              "id": "F2",
+              "name": "Wall print Advertisement",
+              "categories": [
+                {
+                  "name": "Category A",
+                  "value": "10,000.00"
+                },
+                {
+                  "name": "Category B",
+                  "value": "5,000.00"
+                },
+                {
+                  "name": "Category C",
+                  "value": "1,500.00"
+                }
+              ]
+            },
+            {
+              "id": "F3",
+              "name": "Digitalized Bill Boards",
+              "categories": [
+                {
+                  "name": "Category A",
+                  "value": "150,000.00"
+                },
+                {
+                  "name": "Category B",
+                  "value": "100,000.00"
+                },
+                {
+                  "name": "Category C",
+                  "value": "50,000.00"
+                }
+              ]
+            },
+            {
+              "id": "F4",
+              "name": "Non Digitalized Billboard, Unipoles and Eye-catchers ",
+              "categories": [
+                {
+                  "name": "Category A",
+                  "value": "100,000.00"
+                },
+                {
+                  "name": "Category B",
+                  "value": "50,000.00"
+                },
+                {
+                  "name": "Category C",
+                  "value": "20,000.00"
+                }
+              ]
+            },
+            {
+              "id": "F5",
+              "name": "Market Road Show permit",
+              "categories": [
+                {
+                  "name": "Category A",
+                  "value": "5,000.00"
+                },
+                {
+                  "name": "Category B",
+                  "value": "3,000.00"
+                },
+                {
+                  "name": "Category C",
+                  "value": "1,000.00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mobile Advert",
+          "items": [
+            {
+              "id": "F6",
+              "name": "Mobile Sales Promotion fees",
+              "categories": [
+                {
+                  "name": "Category A",
+                  "value": "5,000.00"
+                },
+                {
+                  "name": "Category B",
+                  "value": "3,000.00"
+                },
+                {
+                  "name": "Category C",
+                  "value": "1,000.00"
+                }
+              ]
+            },
+            {
+              "id": "F7",
+              "name": "Cars, Pickup, Trucks (Branded)",
+              "categories": [
+                {
+                  "name": "Category A",
+                  "value": "7,000.00"
+                },
+                {
+                  "name": "Category B",
+                  "value": "3,500.00"
+                },
+                {
+                  "name": "Category C",
+                  "value": "2,500.00"
+                }
+              ]
+            },
+            {
+              "id": "F8",
+              "name": "Trailers/Lorries (Branded)",
+              "categories": [
+                {
+                  "name": "Category A",
+                  "value": "10,000.00"
+                },
+                {
+                  "name": "Category B",
+                  "value": "5,000.00"
+                },
+                {
+                  "name": "Category C",
+                  "value": "2,500.00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "16",
+      "name": "Public Convenience, Sewage and Refuse Disposal Fee",
+      "items": [
+        {
+          "id": "G1",
+          "name": "Dislodgement of Septic Tanks",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "2,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "1,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "500.00"
+            }
+          ]
+        },
+        {
+          "id": "G2",
+          "name": "Sanitation fee (commercial)",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "3,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "2,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "500.00"
+            }
+          ]
+        },
+        {
+          "id": "G3",
+          "name": "Sanitation fee (Market-Per Trader)",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "600.00"
+            },
+            {
+              "name": "Category B",
+              "value": "240.00"
+            },
+            {
+              "name": "Category C",
+              "value": "120.00"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "17",
+      "name": "Wrong Parking Charges",
+      "items": [
+        {
+          "id": "H1",
+          "name": "Wrong parking",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "5,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "2,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "1,000.00"
+            }
+          ]
+        },
+        {
+          "id": "H2",
+          "name": "Towing of Vehicles fee",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "5,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "2,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "1,000.00"
+            }
+          ]
+        },
+        {
+          "id": "H3",
+          "name": "No Parking Order Permit",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "20,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "10,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "5,000.00"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "18",
+      "name": "Other Levies & fees",
+      "items": [
+        {
+          "id": "I1",
+          "name": "Contract Registration fees",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "20,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "10,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "5,000.00"
+            }
+          ]
+        },
+        {
+          "id": "I4",
+          "name": "Hunting Permit",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "1,500.00"
+            }
+          ]
+        },
+        {
+          "id": "I5",
+          "name": "Dane Gun License",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "4,500.00"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "19",
+      "name": "Marriage, Birth and Death registration fees",
+      "items": [
+        {
+          "id": "J1",
+          "name": "Marriage Registration fee",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "5,000.00"
+            },
+            {
+              "name": "Category B",
+              "value": "1,000.00"
+            },
+            {
+              "name": "Category C",
+              "value": "500.00"
+            }
+          ]
+        },
+        {
+          "id": "J2",
+          "name": "Birth Registration fee",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "500.00"
+            },
+            {
+              "name": "Category B",
+              "value": "200.00"
+            },
+            {
+              "name": "Category C",
+              "value": "50.00"
+            }
+          ]
+        },
+        {
+          "id": "J3",
+          "name": "Death Registration fee",
+          "categories": [
+            {
+              "name": "Category A",
+              "value": "500.00"
+            },
+            {
+              "name": "Category B",
+              "value": "200.00"
+            },
+            {
+              "name": "Category C",
+              "value": "50.00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

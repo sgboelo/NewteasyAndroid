@@ -1,0 +1,7 @@
+#Wed Apr 26 09:26:22 WAT 2023
+base.1=/Users/smart/AndroidStudioProjects/NewteasyAndroid/app/build/intermediates/dex/liveDebug/mergeDexLiveDebug/out/classes2.dex
+path.1=classes2.dex
+base.0=/Users/smart/AndroidStudioProjects/NewteasyAndroid/app/build/intermediates/dex/liveDebug/mergeDexLiveDebug/out/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">New TeasyPay</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="login_enter_wallet_id">Enter your wallet ID (Registered Phone Number)</string>
+    <string name="login_enter_pin">Enter your PIN</string>
+
+    <string name="auth_error_title">Auth Error</string>
+    <string name="auth_incorrect_credentials">Incorrect Wallet ID or PIN</string>
+    <string name="auth_network_issues">Server is not available. Please check your internet connection.</string>
+    <string name="auth_internal_error">Internal error. Please try login later.</string>
+
+    <string name="session_expired">Session expired due to 5 minutes of inactivity</string>
+
+    <string name="input_phone_number">Please input receiver phone number</string>
+    <string name="airtime_input_amount">Please input amount</string>
+    <string name="airtime_select_network">Please select network</string>
+
+    <string name="transaction_in_process">Transaction in process</string>
+    <string name="validation_in_process">Validation in process</string>
+
+    <string name="send_money_receiver_not_registered">%s is not a registered TeasyPay customer. Do you want to continue to send money?</string>
+    <string name="validating_receiver_account">Validating receiver account</string>
+
+    <string name="btn_select_bank_text">Select Bank</string>
+    <string name="bank_account_validation_failed">Unable to validate account</string>
+
+    <string name="enter_smartcard_number">Please, enter smartcard number</string>
+    <string name="validating_smartcard">Validating smartcard number</string>
+
+    <string name="meter_number_invalid">Meter number invalid</string>
+
+    <string name="transaction_network_error">Server is not available. Please check your internet connection.</string>
+    <string name="txn_validation_unsuccessful">Validation unsuccessful</string>
+
+    <string name="amount_too_low">Amount entered too low</string>
+
+    <string name="input_voucher_pin">Please input voucher PIN</string>
+    <string name="receiver_not_registered">%s is not a registered TeasyPay customer.</string>
+
+    <string name="teasy_agent_name">Teasy Agent %s</string>
+
+    <string name="make_payment_hospital_select_state">Please, select state and payment location</string>
+    <string name="make_payment_hospital_select_location">Please, select payment location</string>
+    <string name="make_payment_hospital_select_revenue_type">Please, select revenue type</string>
+    <string name="make_payment_confirm_button_text">PAY NOW</string>
+
+    <string name="transaction_result_button_text_success">Back to Home</string>
+    <string name="transaction_result_button_text_fail">Try again</string>
+
+    <string name="transaction_success_activity_title">Transaction successful</string>
+    <string name="transaction_fail_activity_title">Transaction unsuccessful</string>
+
+    <string name="registration_account_already_exists">This account already exists</string>
+
+    <string name="nis_app_expired">Application expired</string>
+    <string name="nis_app_not_found">Application not found</string>
+    <string name="nis_txn_success_msg">Application payment successful\nNIS notified</string>
+    <string name="nis_app_already_paid">This application ID has already been paid for</string>
+
+    <string name="card_list_load_popup_text">Retrieving your cards</string>
+    <string name="add_card_hint">Your card details will be saved on your phone and encrypted. We do not keep your card details on our servers.</string>
+    <string name="add_card_popup_text">Please check your account for a charge from Teasy and input in the box below</string>
+    <string name="card_validation_refused_header">Validation refused</string>
+    <string name="card_validation_refused_desc">Card was removed from your account</string>
+    <string name="card_validation_success">Validation successful</string>
+    <string name="card_validation_fail">Validation unsuccessful</string>
+
+    <string name="error_card_not_tied">The card is not tied to your account</string>
+    <string name="error_card_not_validated">The card is not validated</string>
+    <string name="error_card_already_valdiated">This card is already validated</string>
+    <string name="error_card_bind_attempt_exceeded">Add attempt limit for this card is exceeded. Please, try again tomorrow</string>
+
+    <string name="question_remove_card">Do you want to remove this card from your account?\n\n%s</string>
+    <string name="mycards_have_not_cards">You don\'t have any cards on your account</string>
+    <string name="mycards_error_loading_cards">Unable to load your cards. Please, try again later</string>
+    <string name="loading_interswitch_billers">Please wait while loading biller list</string>
+    <string name="fetching_billers_list">Fetching Billers\' List</string>
+    <string name="fetching_billers_products">Fetching Biller\'s Products</string>
+
+    <string name="frsc_txn_success_msg">Application payment successful\nTransaction ID: %s</string>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

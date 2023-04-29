@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/smart/AndroidStudioProjects/NewteasyAndroid/app/build/intermediates/incremental/mergeLiveDebugResources/merged.dir/values-h500dp-v13/values-h500dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/smart/AndroidStudioProjects/NewteasyAndroid/app/src/main/res/values-h500dp/dimens.xml",
+                    "from": {
+                        "startLines": "2,3,17,8,6,5,4,9,10,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "135,193,762,401,358,308,249,482,526,576,628,678",
+                        "endColumns": "57,55,60,80,41,49,58,43,48,51,49,55",
+                        "endOffsets": "188,244,818,477,395,353,303,521,570,623,673,729"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,158,214,275,354,396,446,505,549,598,650,700",
+                        "endColumns": "57,55,60,78,41,49,58,43,48,51,49,55",
+                        "endOffsets": "153,209,270,349,391,441,500,544,593,645,695,751"
+                    }
+                }
+            ]
+        }
+    ]
+}

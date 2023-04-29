@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="@dimen/_280sdp"
+    android:layout_height="@dimen/_480sdp"
+    app:cardCornerRadius="@dimen/_10sdp"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/_35sdp"
+            android:layout_gravity="right"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/imageButton4"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="right"
+                android:layout_marginTop="@dimen/_4sdp"
+                android:layout_marginRight="@dimen/_4sdp"
+                android:background="#00FFFFFF"
+                android:scaleType="fitCenter"
+                app:srcCompat="@drawable/ic_baseline_close_24" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imageView30"
+            android:layout_width="@dimen/_100sdp"
+            android:layout_height="@dimen/_100sdp"
+            android:layout_gravity="center_horizontal"
+            app:srcCompat="@drawable/gt_uganda_logo" />
+
+        <Spinner
+            android:id="@+id/spinner2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <ScrollView
+            android:id="@+id/bank_deposite"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView31"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    app:srcCompat="@drawable/step1" />
+
+                <TextView
+                    android:id="@+id/textView126"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Make Bank Transfer or Deposit to the Following Acount Number making sure to add your wallet address as naration"
+                    android:textColor="@color/teasyBlack"
+                    android:textSize="@dimen/_16sdp" />
+
+                <TextView
+                    android:id="@+id/textView127"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    android:gravity="center"
+                    android:text="GTB"
+                    android:textColor="@color/teasyBlack"
+                    android:textSize="@dimen/_16sdp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView128"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_5sdp"
+                    android:gravity="center"
+                    android:text="Account Number"
+                    android:textColor="@color/teasyBlack"
+                    android:textSize="@dimen/_16sdp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView129"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="0119226680"
+                    android:textColor="@color/teasyBlack"
+                    android:textSize="@dimen/_16sdp" />
+
+                <TextView
+                    android:id="@+id/textView130"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_5sdp"
+                    android:gravity="center"
+                    android:text="Account Name"
+                    android:textColor="@color/teasyBlack"
+                    android:textSize="@dimen/_16sdp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView131"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text=" Teasy Int’l  Company (Pool Account)"
+                    android:textColor="@color/teasyBlack"
+                    android:textSize="@dimen/_16sdp" />
+
+                <ImageView
+                    android:id="@+id/imageView32"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    app:srcCompat="@drawable/step2" />
+
+                <TextView
+                    android:id="@+id/textView132"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="If You are making transfer using Bank APP, USSD CODE or ATM Confirm the account number and name displayed is corresponds with the name above, skip this step if You are making a Bank deposit"
+                    android:textColor="@color/teasyBlack"
+                    android:textSize="@dimen/_16sdp" />
+
+                <ImageView
+                    android:id="@+id/imageView33"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    app:srcCompat="@drawable/step3" />
+
+                <TextView
+                    android:id="@+id/textView133"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Contact our Customer on 07011554772 or 09060292163 to confirm your payment"
+                    android:textColor="@color/teasyBlack"
+                    android:textSize="@dimen/_16sdp" />
+            </LinearLayout>
+        </ScrollView>
+
+        <ScrollView
+            android:id="@+id/gtAPP"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView34"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_30sdp"
+                    app:srcCompat="@drawable/step1" />
+
+                <TextView
+                    android:id="@+id/textView125"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Login to the GT app \nOn the side menu, choose &quot;Other Payments&quot;\nOn the next screen, choose &quot;More Payments&quot; \nOn the next screen, scroll down to see &quot;TEASY INTL COY LIMITED&quot; and choose it\nOn the next screen, choose &quot;TEASYPAY Mobile Money&quot;"
+                    android:textColor="@color/teasyBlack"
+                    android:textSize="@dimen/_14ssp" />
+
+                <ImageView
+                    android:id="@+id/imageVew34"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_30sdp"
+                    app:srcCompat="@drawable/step2" />
+
+                <TextView
+                    android:id="@+id/textVie1125"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="On the next screen, enter the wallet number you wish to pay into. Please enter the usual 11 digits’ mobile number in the field named MSISDN and enter Amount"
+                    android:textColor="@color/teasyBlack"
+                    android:textSize="@dimen/_14ssp" />
+
+                <ImageView
+                    android:id="@+id/imageVqew34"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_30sdp"
+                    app:srcCompat="@drawable/step3" />
+
+                <TextView
+                    android:id="@+id/te2xtVie1125"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="The next screen will show the details of the wallet to which the money is being transferred. Press &quot;Continue&quot; to confirm\nOn the next screen, choose the account from where the money will deducted\nEnter your GT Bank transaction PIN in the &quot;Transaction PIN&quot; field and press the &quot;Confirm Payment&quot; button to complete your payment"
+                    android:textColor="@color/teasyBlack"
+                    android:textSize="@dimen/_14ssp" />
+
+
+            </LinearLayout>
+        </ScrollView>
+
+        <ScrollView
+            android:id="@+id/gtWorld"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/im1ageView34"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_30sdp"
+                    app:srcCompat="@drawable/step1" />
+
+                <TextView
+                    android:id="@+id/textVview125"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Login to the GT World app\nOn the menu screen, choose &quot;Payment&quot;\nOn the next screen, choose &quot;Other Bills&quot;\nOn the next screen, do the following:\nSelect the account you are making the payment from\nIn the &quot;Select Collection&quot; field, choose &quot;Financial Institutions&quot;\nIn the &quot;Select a category&quot; field, choose &quot;TEASY INTL COY LIMITED&quot;\nIn the &quot;Product&quot; field, choose &quot;TEASYPAY MOBILE MONEY&quot;\nPress the &quot;Continue&quot; button"
+                    android:textColor="@color/teasyBlack"
+                    android:textSize="@dimen/_14ssp" />
+
+                <ImageView
+                    android:id="@+id/imagbeVew34"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_30sdp"
+                    app:srcCompat="@drawable/step2" />
+
+                <TextView
+                    android:id="@+id/textvVie1125"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Enter the amount and press the &quot;Submit&quot; button\nThe next screen will show the details of the wallet to which the money is being transferred. Press &quot;Submit&quot; to confirm\nEnter your GT Bank transaction PIN and press &quot;Done&quot; to complete your payment"
+                    android:textColor="@color/teasyBlack"
+                    android:textSize="@dimen/_14ssp" />
+
+
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

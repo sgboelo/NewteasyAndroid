@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#02355a</color>
+    <color name="colorPrimaryDark">#02355a</color>
+    <color name="colorAccent">#02355a</color>
+
+    <color name="color_bottom_menu_item_active">#ff4d02</color>
+    <color name="color_bottom_menu_item_inactive">#b2b2b2</color>
+    <color name="list_selector">#fff4ea</color>
+    <color name="teasyMain">#F2BE85</color>
+    <color name="teasyBlack">#000000</color>
+    <color name ="teasyGreen">#00FF00</color>
+</resources>
+

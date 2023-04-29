@@ -1,0 +1,1 @@
+[{"outputType":{"type":"BUNDLE_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":125,"versionName":"3.4.3","enabled":true,"outputFile":"[3.4.3]teasypay-live-debug.apk","fullName":"liveDebug","baseName":"live-debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.newteasypay.android","split":"","minSdkVersion":"23"}}]

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#fff">
+
+    <LinearLayout
+        android:onClick="airtimeSelfClicked"
+        style="@style/airtime_menu_item">
+        <View
+            style="@style/airtime_menu_item_icon"
+            android:background="@drawable/airtime_ic_forself"/>
+        
+        <com.SmartTech.teasyNew.view.CustomTextView
+            style="@style/airtime_menu_item_label"
+            android:text="Buy for myself"/>
+    </LinearLayout>
+
+    <View style="@style/airtime_menu_item_divider"/>
+
+    <LinearLayout
+        android:onClick="airtimeContactPickClicked"
+        style="@style/airtime_menu_item">
+        <View
+            style="@style/airtime_menu_item_icon"
+            android:background="@drawable/airtime_ic_from_contact"/>
+
+        <com.SmartTech.teasyNew.view.CustomTextView
+            style="@style/airtime_menu_item_label"
+            android:text="Select from my contacts"/>
+    </LinearLayout>
+
+    <View style="@style/airtime_menu_item_divider"/>
+
+    <LinearLayout
+        android:onClick="airtimeAnotherClicked"
+        style="@style/airtime_menu_item">
+        <View
+            style="@style/airtime_menu_item_icon"
+            android:background="@drawable/airtime_ic_foranother"/>
+
+        <com.SmartTech.teasyNew.view.CustomTextView
+            style="@style/airtime_menu_item_label"
+            android:text="Enter a phone number"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Home"
+        android:icon="@drawable/home_new"
+        android:title="Home" />
+    <item
+        android:id="@+id/Transfer"
+        android:icon="@drawable/ic_baseline_send_24"
+        android:title="Tranfer Cash" />
+    <item
+        android:id="@+id/Card"
+        android:icon="@drawable/ic_baseline_credit_card_24"
+        android:title="Top-Up" />
+    <item
+        android:id="@+id/PayBill"
+        android:icon="@drawable/ic_baseline_article_24"
+        android:title="Pay Bill" />
+</menu>

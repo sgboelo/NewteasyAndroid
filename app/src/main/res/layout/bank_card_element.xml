@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:tag="bank_card"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_marginTop="20dp">
+
+    <LinearLayout
+        android:layout_width="280dp"
+        android:layout_height="100dp"
+        android:background="@drawable/bg_card"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:tag="card_section_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:layout_marginBottom="16dp">
+
+            <com.SmartTech.teasyNew.view.CustomTextView
+                android:tag="bank_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Diamond Bank"
+                android:textColor="#1d1d1d"
+                app:textFont="OpenSansBold" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="1" />
+
+            <View
+                android:visibility="gone"
+                android:tag="icon_visa"
+                android:layout_width="70dp"
+                android:layout_height="20dp"
+                android:background="@drawable/icon_visa_card"/>
+            <View
+                android:visibility="gone"
+                android:tag="icon_mastercard"
+                android:layout_width="48dp"
+                android:layout_height="30dp"
+                android:background="@drawable/icon_mastercard"/>
+            <View
+                android:visibility="gone"
+                android:tag="icon_american_express"
+                android:layout_width="68dp"
+                android:layout_height="24dp"
+                android:background="@drawable/icon_american_express"/>
+            <View
+                android:visibility="gone"
+                android:tag="icon_discover"
+                android:layout_width="58dp"
+                android:layout_height="30dp"
+                android:background="@drawable/icon_discover_card"/>
+            <View
+                android:visibility="gone"
+                android:tag="icon_diners_club"
+                android:layout_width="96dp"
+                android:layout_height="24dp"
+                android:background="@drawable/icon_diners_club"/>
+            <View
+                android:visibility="gone"
+                android:layout_marginLeft="10dp"
+                android:tag="icon_carte_blanche"
+                android:layout_width="40dp"
+                android:layout_height="24dp"
+                android:background="@drawable/icon_carte_blanche"/>
+        </LinearLayout>
+
+        <com.SmartTech.teasyNew.view.CustomTextView
+            android:tag="card_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="**** **** ****  3345"
+            android:textColor="#1d1d1d"
+            app:textFont="OpenSansBold"
+            android:textSize="18dp" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:background="#ff4e02"/>
+</LinearLayout>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/_480sdp"
+    android:layout_margin="@dimen/_10sdp"
+    android:background="@drawable/bg_card"
+    android:orientation="vertical"
+    android:padding="@dimen/_10sdp">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/spCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardUseCompatPadding="true">
+
+        <com.SmartTech.teasyNew.activity.transaction.SpinnerReselect
+            android:id="@+id/spinnerReselect3"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_35sdp" />
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/meterCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardUseCompatPadding="true">
+
+        <EditText
+            android:id="@+id/editTextNumber31"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edit_textview"
+            android:ems="10"
+            android:hint="Enter Phone Number"
+            android:inputType="number"
+            android:padding="@dimen/_4sdp"
+            android:textSize="24sp" />
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardUseCompatPadding="true">
+
+        <EditText
+            android:id="@+id/editTextNumber3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edit_textview"
+            android:ems="10"
+            android:hint="Enter Meter Number"
+            android:inputType="number"
+            android:padding="@dimen/_4sdp"
+            android:textSize="24sp" />
+    </androidx.cardview.widget.CardView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/TVRecycler"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_weight="1" />
+
+    <TextView
+        android:id="@+id/textView69"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_45sdp"
+        android:background="@color/color_bottom_menu_item_active"
+        android:gravity="center"
+        android:text="Continue"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/_20sdp" />
+
+</LinearLayout>

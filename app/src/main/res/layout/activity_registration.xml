@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#f4f4f4"
+    tools:context="com.SmartTech.teasyNew.activity.ActivityRegistration">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:fillViewport="true">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="288dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:paddingTop="20dp">
+
+                <com.SmartTech.teasyNew.view.CustomTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Create Account"
+                    android:id="@+id/textView2"
+                    android:textAllCaps="true"
+                    android:gravity="center_horizontal"
+                    android:textColor="#434343"
+                    android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+                <androidx.legacy.widget.Space
+                    android:layout_width="match_parent"
+                    android:layout_height="15dp" />
+
+                <com.SmartTech.teasyNew.view.CustomTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="First Name"
+                    android:id="@+id/textView5"
+                    style="@style/reg_label"/>
+
+                <com.SmartTech.teasyNew.view.CustomEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/reg_edit_text_height"
+                    android:inputType="textCapSentences"
+                    android:ems="10"
+                    android:id="@+id/firstname"
+                    android:background="@drawable/reg_firstname_field"
+                    style="@style/reg_edittext"/>
+
+                <androidx.legacy.widget.Space
+                    android:layout_width="match_parent"
+                    android:layout_height="15dp" />
+
+                <com.SmartTech.teasyNew.view.CustomTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Middle/Other Name"
+                    android:id="@+id/textView6"
+                    style="@style/reg_label"
+                    android:visibility="gone"/>
+                <com.SmartTech.teasyNew.view.CustomEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/reg_edit_text_height"
+                    android:inputType="textCapSentences"
+                    android:ems="10"
+                    android:id="@+id/othername"
+                    android:background="@drawable/reg_middlename_field"
+                    style="@style/reg_edittext"
+                    android:visibility="gone"/>
+
+                <com.SmartTech.teasyNew.view.CustomTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Last Name"
+                    android:id="@+id/textView7"
+                    style="@style/reg_label"/>
+                <com.SmartTech.teasyNew.view.CustomEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/reg_edit_text_height"
+                    android:inputType="textCapSentences"
+                    android:ems="10"
+                    android:id="@+id/lastname"
+                    android:background="@drawable/reg_firstname_field"
+                    style="@style/reg_edittext"/>
+
+                <androidx.legacy.widget.Space
+                    android:layout_width="match_parent"
+                    android:layout_height="15dp" />
+
+                <com.SmartTech.teasyNew.view.CustomTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:text="Phone Number"
+                    android:id="@+id/textView8"
+                    style="@style/reg_label"/>
+
+                <com.SmartTech.teasyNew.view.CustomEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/reg_edit_text_height"
+                    android:ems="10"
+                    android:id="@+id/phone"
+                    android:background="@drawable/reg_phone_field"
+                    android:inputType="number"
+                    style="@style/reg_edittext"/>
+
+                <androidx.legacy.widget.Space
+                    android:layout_width="match_parent"
+                    android:layout_height="15dp" />
+
+                <com.SmartTech.teasyNew.view.CustomTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:text="PIN"
+                    android:id="@+id/pin_label"
+                    style="@style/reg_label"/>
+                <com.SmartTech.teasyNew.view.CustomEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/reg_edit_text_height"
+                    android:ems="10"
+                    android:id="@+id/pin_edittext"
+                    android:background="@drawable/reg_pin_field"
+                    android:inputType="numberPassword"
+                    android:maxLength="4"
+                    style="@style/reg_edittext"/>
+
+                <androidx.legacy.widget.Space
+                    android:layout_width="match_parent"
+                    android:layout_height="15dp" />
+
+                <com.SmartTech.teasyNew.view.CustomTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:text="Confirm PIN"
+                    android:id="@+id/pin_confirm_label"
+                    style="@style/reg_label"/>
+                <com.SmartTech.teasyNew.view.CustomEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/reg_edit_text_height"
+                    android:ems="10"
+                    android:id="@+id/pin_confirm_edittext"
+                    android:background="@drawable/reg_pin_field"
+                    android:inputType="numberPassword"
+                    style="@style/reg_edittext"
+                    android:maxLength="4"/>
+
+                <androidx.legacy.widget.Space
+                    android:id="@+id/space"
+                    android:layout_width="match_parent"
+                    android:layout_height="15dp" />
+
+                <com.SmartTech.teasyNew.view.CustomTextView
+                    android:id="@+id/pin_label2"
+                    style="@style/reg_label"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:text="BVN" />
+
+                <com.SmartTech.teasyNew.view.CustomEditText
+                    android:id="@+id/pin_edittext2"
+                    style="@style/reg_edittext"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/reg_edit_text_height"
+                    android:background="@drawable/reg_pin_field"
+                    android:ems="10"
+                    android:inputType="number"
+                    android:maxLength="11" />
+
+                <com.SmartTech.teasyNew.view.CustomTextView
+                    android:id="@+id/textView9"
+                    style="@style/reg_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Email"
+                    android:visibility="visible" />
+
+                <com.SmartTech.teasyNew.view.CustomEditText
+                    android:id="@+id/email"
+                    style="@style/reg_edittext"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/reg_edit_text_height"
+                    android:background="@drawable/reg_email_field"
+                    android:ems="10"
+                    android:visibility="visible" />
+
+                <RadioGroup
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_horizontal"
+                    android:orientation="horizontal"
+                    android:paddingLeft="50dp"
+                    android:paddingRight="50dp"
+                    android:visibility="gone">
+
+                    <RadioButton
+                        android:id="@+id/isMale"
+                        style="@style/RadioGenderMale"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="20dp"
+                        android:checked="true" />
+
+                    <RadioButton
+                        android:id="@+id/isFemale"
+                        style="@style/RadioGenderFemale"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:checked="false" />
+                </RadioGroup>
+
+                <com.SmartTech.teasyNew.view.CustomTextView
+                    android:id="@+id/textView10"
+                    style="@style/reg_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Country"
+                    android:visibility="gone" />
+
+                <com.SmartTech.teasyNew.view.CustomSpinner
+                    android:id="@+id/spinner_country"
+                    style="@style/reg_spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/reg_spinner_height"
+                    android:background="@drawable/reg_country_spinner"
+                    android:paddingLeft="@dimen/reg_spinner_padding_left"
+                    android:visibility="gone" />
+
+                <com.SmartTech.teasyNew.view.CustomTextView
+                    android:id="@+id/textView11"
+                    style="@style/reg_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="State"
+                    android:visibility="gone" />
+
+                <com.SmartTech.teasyNew.view.CustomSpinner
+                    android:id="@+id/spinner_state"
+                    style="@style/reg_spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/reg_spinner_height"
+                    android:background="@drawable/reg_state_spinner"
+                    android:paddingLeft="@dimen/reg_spinner_padding_left"
+                    android:visibility="gone" />
+
+                <com.SmartTech.teasyNew.view.CustomTextView
+                    android:id="@+id/textView12"
+                    style="@style/reg_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="City"
+                    android:visibility="gone" />
+
+                <com.SmartTech.teasyNew.view.CustomEditText
+                    android:id="@+id/city"
+                    style="@style/reg_edittext"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/reg_edit_text_height"
+                    android:background="@drawable/reg_address_field"
+                    android:ems="10"
+                    android:inputType="textCapSentences"
+                    android:visibility="gone" />
+
+                <com.SmartTech.teasyNew.view.CustomTextView
+                    android:id="@+id/textView13"
+                    style="@style/reg_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Address"
+                    android:visibility="visible" />
+
+                <com.SmartTech.teasyNew.view.CustomEditText
+                    android:id="@+id/address"
+                    style="@style/reg_edittext"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/reg_edit_text_height"
+                    android:background="@drawable/reg_address_field"
+                    android:ems="10"
+                    android:inputType="textCapSentences"
+                    android:visibility="visible" />
+
+                <com.SmartTech.teasyNew.view.CustomTextView
+                    android:id="@+id/textView14"
+                    style="@style/reg_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Date Of Birth"
+                    android:visibility="gone" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:visibility="gone">
+
+                    <com.SmartTech.teasyNew.view.CustomEditText
+                        android:id="@+id/birth_day"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/reg_edit_text_height"
+                        android:layout_weight="1"
+                        android:background="@drawable/reg_field_bg"
+                        android:hint="Day"
+                        android:inputType="number"
+                        android:maxLength="2"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp" />
+
+                    <com.SmartTech.teasyNew.view.CustomSpinner
+                        android:id="@+id/birth_month"
+                        style="@style/reg_spinner"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/reg_spinner_height"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_weight="0.75"
+                        android:background="@drawable/reg_date_spinner"
+                        app:values="@array/months" />
+
+                    <com.SmartTech.teasyNew.view.CustomEditText
+                        android:id="@+id/birth_year"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/reg_edit_text_height"
+                        android:layout_weight="1"
+                        android:background="@drawable/reg_field_bg"
+                        android:hint="Year"
+                        android:inputType="number"
+                        android:maxLength="4"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <!--
+                hack: pin button to bottom
+                http://stackoverflow.com/a/4099076
+            -->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+            </FrameLayout>
+
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Create My Account"
+                    android:onClick="createAccountPressed"
+                    android:background="@drawable/btn_create_account_bg"
+                    android:textColor="#FFF"
+                    android:typeface="serif"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="20dp" android:id="@+id/button"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

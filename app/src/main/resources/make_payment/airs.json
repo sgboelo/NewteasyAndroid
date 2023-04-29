@@ -1,0 +1,2974 @@
+{
+  "collections": [
+    {
+      "code": "default",
+      "taxes": [
+        {
+          "id": 1,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/POULTRY PRODUCTION/YOLA SOUTH",
+          "price": 2000000
+        },
+        {
+          "id": 2,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/POULTRY PRODUCTION/MUBI SOUTH (MUBI INT MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 3,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/POULTRY PRODUCTION/NUMAN (NUMAN MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 4,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/POULTRY PRODUCTION/DEMSA",
+          "price": 1000000
+        },
+        {
+          "id": 5,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/VENDORS/YOLA SOUTH",
+          "price": 300000
+        },
+        {
+          "id": 6,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/VENDORS/MUBI SOUTH (MUBI INT MARKET)",
+          "price": 300000
+        },
+        {
+          "id": 7,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/VENDORS/NUMAN (NUMAN MARKET)",
+          "price": 300000
+        },
+        {
+          "id": 8,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/VENDORS/OTHERS",
+          "price": 150000
+        },
+        {
+          "id": 9,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/CATTLE DEALERS/YOLA SOUTH",
+          "price": 1000000
+        },
+        {
+          "id": 10,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/CATTLE DEALERS/MUBI NORTH",
+          "price": 1000000
+        },
+        {
+          "id": 11,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/CATTLE DEALERS/NUMAN (NUMAN MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 12,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/CATTLE DEALERS/OTHERS",
+          "price": 500000
+        },
+        {
+          "id": 13,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/BUTCHERS/YOLA NORTH JIMETA-JAMBUTU",
+          "price": 300000
+        },
+        {
+          "id": 14,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/BUTCHERS/MUBI NORTH",
+          "price": 300000
+        },
+        {
+          "id": 15,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/BUTCHERS/NUMAN (NUMAN MARKET)",
+          "price": 300000
+        },
+        {
+          "id": 16,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/BUTCHERS/OTHERS",
+          "price": 150000
+        },
+        {
+          "id": 17,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/ANIMAL FEED DEALERS/YOLA SOUTH",
+          "price": 1000000
+        },
+        {
+          "id": 18,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/ANIMAL FEED DEALERS/MUBI SOUTH (MUBI INT MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 19,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/ANIMAL FEED DEALERS/NUMAN (NUMAN MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 20,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/ANIMAL FEED DEALERS/OTHERS",
+          "price": 500000
+        },
+        {
+          "id": 21,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/POULTRY FEED DEALERS/YOLA NORTH (JIMETA-JAMBUTU)",
+          "price": 1000000
+        },
+        {
+          "id": 22,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/POULTRY FEED DEALERS/MUBI SOUTH (MUBI INT MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 23,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/POULTRY FEED DEALERS/NUMAN (NUMAN MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 24,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/POULTRY FEED DEALERS/OTHERS",
+          "price": 500000
+        },
+        {
+          "id": 25,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ROAD TRANSPORT WORKERS UNION/YOLA SOUTH",
+          "price": 2000000
+        },
+        {
+          "id": 26,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ROAD TRANSPORT WORKERS UNION/MUBI SOUTH (MUBI INT MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 27,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ROAD TRANSPORT WORKERS UNION/NUMAN (NUMAN  MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 28,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ROAD TRANSPORT WORKERS UNION/OTHERS",
+          "price": 1000000
+        },
+        {
+          "id": 29,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/TRADE ANIMALS FEES/SALES OF CATTLE/MUBI SOUTH/MUBI INTERNATIONAL",
+          "price": 25000
+        },
+        {
+          "id": 30,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/TRADE ANIMALS FEES/SALES OF CATTLE/YOLA SOUTH/NGURORE",
+          "price": 25000
+        },
+        {
+          "id": 31,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/TRADE ANIMALS FEES/SALES OF SHEEP AND GOATS/MUBI SOUTH/MUBI INTERNATIONAL",
+          "price": 25000
+        },
+        {
+          "id": 32,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/TRADE ANIMALS FEES/SALES OF SHEEP AND GOATS/YOLA SOUTH/NGURORE",
+          "price": 25000
+        },
+        {
+          "id": 33,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/TRANSPORT ORGANIZATION/YOLA SOUTH",
+          "price": 2000000
+        },
+        {
+          "id": 34,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/TRANSPORT ORGANIZATION/MUBI SOUTH (MUBI INT MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 35,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/TRANSPORT ORGANIZATION/NUMAN (NUMAN MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 36,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/TRANSPORT ORGANIZATION/OTHERS",
+          "price": 1000000
+        },
+        {
+          "id": 37,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ACHABA (MOTOR CYCLE) UNION/YOLA SOUTH",
+          "price": 2000000
+        },
+        {
+          "id": 38,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ACHABA (MOTOR CYCLE) UNION/MUBI SOUTH  (MUBI INT MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 39,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ACHABA (MOTOR CYCLE) UNION/NUMAN (NUMAN MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 40,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ACHABA (MOTOR CYCLE) UNION/OTHERS",
+          "price": 1000000
+        },
+        {
+          "id": 41,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/JIMETA MODERN MARKET FACILITY RATES (SHOPS)/OPEN",
+          "price": 100000
+        },
+        {
+          "id": 42,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/JIMETA MODERN MARKET FACILITY RATES (SHOPS)/LOCK UP",
+          "price": 100000
+        },
+        {
+          "id": 43,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/JIMETA MODERN MARKET FACILITY RATES (SHOPS)/WHOLESALE",
+          "price": 100000
+        },
+        {
+          "id": 44,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/JIMETA MODERN MARKET FACILITY RATES (SHOPS)/OPEN SPACE",
+          "price": 100000
+        },
+        {
+          "id": 45,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/JIMETA SHOPPING COMPLEX AUTHORITY GROUND RATES AND RENT/WAREHOUSE BLOCK (RENT)",
+          "price": 1200000
+        },
+        {
+          "id": 46,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/JIMETA SHOPPING COMPLEX AUTHORITY GROUND RATES AND RENT/COMMERCIAL BLOCK (RENT)",
+          "price": 900000
+        },
+        {
+          "id": 47,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/JIMETA SHOPPING COMPLEX AUTHORITY GROUND RATES AND RENT/LOCK UP SHOPS (RENT)",
+          "price": 750000
+        },
+        {
+          "id": 48,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/JIMETA SHOPPING COMPLEX AUTHORITY GROUND RATES AND RENT/MEAT STALL (RENT)",
+          "price": 300000
+        },
+        {
+          "id": 49,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/JIMETA SHOPPING COMPLEX AUTHORITY GROUND RATES AND RENT/PARAMETER SHOP (MUBI ROAD) (GROUND RATE)",
+          "price": 750000
+        },
+        {
+          "id": 50,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/JIMETA SHOPPING COMPLEX AUTHORITY GROUND RATES AND RENT/SHOPS INSIDE MARKET (GROUND RATE)",
+          "price": 750000
+        },
+        {
+          "id": 51,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/REGISTRATION OF TRADE ASSOCIATION AND CORPORATIVE SOCIETIES/REGISTRATION OF TRADE ASSOCIATION",
+          "price": 1000000
+        },
+        {
+          "id": 52,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/REGISTRATION OF TRADE ASSOCIATION AND CORPORATIVE SOCIETIES/REGISTRATION, AUDIT AND SUPERVISION OF CORPORATIVE SOCIETIES",
+          "price": 300000
+        },
+        {
+          "id": 53,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/SMALL SCALE PHARMACY STORE/JIMETA",
+          "price": 50000
+        },
+        {
+          "id": 54,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/SMALL SCALE PHARMACY STORE/YOLA SOUTH",
+          "price": 50000
+        },
+        {
+          "id": 55,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/SMALL SCALE PHARMACY STORE/NUMAN (NUMAN MARKET)",
+          "price": 40000
+        },
+        {
+          "id": 56,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/SMALL SCALE PHARMACY STORE/GOMBI (GOMBI MARKET)",
+          "price": 40000
+        },
+        {
+          "id": 57,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/SMALL SCALE PHARMACY STORE/MUBI SOUTH (MUBI INT MARKET)",
+          "price": 50000
+        },
+        {
+          "id": 58,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/SMALL SCALE PHARMACY STORE/MICHIKA (MICHIKA MARKET)",
+          "price": 40000
+        },
+        {
+          "id": 59,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/SMALL SCALE PHARMACY STORE/GANYE (GANYE MARKET)",
+          "price": 40000
+        },
+        {
+          "id": 60,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/SMALL SCALE PHARMACY STORE/OTHERS",
+          "price": 30000
+        },
+        {
+          "id": 61,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/JIMETA",
+          "price": 50000
+        },
+        {
+          "id": 62,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/YOLA SOUTH",
+          "price": 70000
+        },
+        {
+          "id": 63,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/NUMAN (NUMAN MARKET)",
+          "price": 70000
+        },
+        {
+          "id": 64,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/GOMBI (GOMBI MARKET)",
+          "price": 70000
+        },
+        {
+          "id": 65,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/MUBI SOUTH (MUBI INT MARKET)",
+          "price": 70000
+        },
+        {
+          "id": 66,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/MICHIKA (MICHIKA MARKET)",
+          "price": 70000
+        },
+        {
+          "id": 67,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/GANYE (GANYE MARKET)",
+          "price": 70000
+        },
+        {
+          "id": 68,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/OTHERS",
+          "price": 50000
+        },
+        {
+          "id": 69,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/JIMETA",
+          "price": 100000
+        },
+        {
+          "id": 70,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/YOLA SOUTH",
+          "price": 100000
+        },
+        {
+          "id": 71,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/NUMAN (NUMAN MARKET)",
+          "price": 100000
+        },
+        {
+          "id": 72,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/GOMBI (GOMBI  MARKET)",
+          "price": 100000
+        },
+        {
+          "id": 73,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/MUBI SOUTH (MUBI INT MARKET)",
+          "price": 100000
+        },
+        {
+          "id": 74,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/MICHIKA (MICHIKA MARKET)",
+          "price": 100000
+        },
+        {
+          "id": 75,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/GANYE (GANYE MARKET)",
+          "price": 100000
+        },
+        {
+          "id": 76,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/OTHERS",
+          "price": 70000
+        },
+        {
+          "id": 77,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/TROPHY DEALERS LICENSE/RESIDENTS",
+          "price": 500000
+        },
+        {
+          "id": 78,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/TROPHY DEALERS LICENSE/NON - RESIDENTS",
+          "price": 1000000
+        },
+        {
+          "id": 80,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/BABOON/RESIDENTS",
+          "price": 100000
+        },
+        {
+          "id": 81,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/BABOON/NON - RESIDENTS",
+          "price": 200000
+        },
+        {
+          "id": 82,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/BABOON/EXPATRIATES",
+          "price": 500000
+        },
+        {
+          "id": 83,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/RED PATAS MONKEY/RESIDENTS",
+          "price": 50000
+        },
+        {
+          "id": 84,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/RED PATAS MONKEY/NON - RESIDENTS",
+          "price": 100000
+        },
+        {
+          "id": 85,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/RED PATAS MONKEY/EXPATRIATES",
+          "price": 200000
+        },
+        {
+          "id": 86,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/TANTALUS MONKEY/RESIDENTS",
+          "price": 25000
+        },
+        {
+          "id": 87,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/TANTALUS MONKEY/NON - RESIDENTS",
+          "price": 50000
+        },
+        {
+          "id": 88,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/TANTALUS MONKEY/EXPATRIATES",
+          "price": 150000
+        },
+        {
+          "id": 89,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/WESTERN HARTEBEEST/RESIDENTS",
+          "price": 1000000
+        },
+        {
+          "id": 90,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/WESTERN HARTEBEEST/NON - RESIDENTS",
+          "price": 1500000
+        },
+        {
+          "id": 91,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/WESTERN HARTEBEEST/EXPATRIATES",
+          "price": 3000000
+        },
+        {
+          "id": 92,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/BUFFALLO/RESIDENTS",
+          "price": 2000000
+        },
+        {
+          "id": 93,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/BUFFALLO/NON - RESIDENTS",
+          "price": 3000000
+        },
+        {
+          "id": 94,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/BUFFALLO/EXPATRIATES",
+          "price": 5000000
+        },
+        {
+          "id": 95,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/KOB/RESIDENTS",
+          "price": 200000
+        },
+        {
+          "id": 96,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/KOB/NON - RESIDENTS",
+          "price": 300000
+        },
+        {
+          "id": 97,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/KOB/EXPATRIATES",
+          "price": 1000000
+        },
+        {
+          "id": 98,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/BOHOR REEDBUCK/RESIDENTS",
+          "price": 150000
+        },
+        {
+          "id": 99,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/BOHOR REEDBUCK/NON - RESIDENTS",
+          "price": 180000
+        },
+        {
+          "id": 100,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/BOHOR REEDBUCK/EXPATRIATES",
+          "price": 800000
+        },
+        {
+          "id": 101,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/ROAN AND ANTELOPE/RESIDENTS",
+          "price": 1000000
+        },
+        {
+          "id": 102,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/ROAN AND ANTELOPE/NON - RESIDENTS",
+          "price": 1500000
+        },
+        {
+          "id": 103,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/ROAN AND ANTELOPE/EXPATRIATES",
+          "price": 3000000
+        },
+        {
+          "id": 104,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/WATERBUCK/RESIDENTS",
+          "price": 600000
+        },
+        {
+          "id": 105,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/WATERBUCK/NON - RESIDENTS",
+          "price": 700000
+        },
+        {
+          "id": 106,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/WATERBUCK/EXPATRIATES",
+          "price": 1500000
+        },
+        {
+          "id": 107,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/BUSH BUCK/RESIDENTS",
+          "price": 150000
+        },
+        {
+          "id": 108,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/BUSH BUCK/NON - RESIDENTS",
+          "price": 200000
+        },
+        {
+          "id": 109,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/BUSH BUCK/EXPATRIATES",
+          "price": 500000
+        },
+        {
+          "id": 110,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/GRIMMS DUIKER/RESIDENTS",
+          "price": 100000
+        },
+        {
+          "id": 111,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/GRIMMS DUIKER/NON - RESIDENTS",
+          "price": 150000
+        },
+        {
+          "id": 112,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/GRIMMS DUIKER/EXPATRIATES",
+          "price": 400000
+        },
+        {
+          "id": 113,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/RED FLANKED DUIKER/RESIDENTS",
+          "price": 80000
+        },
+        {
+          "id": 114,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/RED FLANKED DUIKER/NON - RESIDENTS",
+          "price": 150000
+        },
+        {
+          "id": 115,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/RED FLANKED DUIKER/EXPATRIATES",
+          "price": 400000
+        },
+        {
+          "id": 116,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/ORIBI/RESIDENTS",
+          "price": 100000
+        },
+        {
+          "id": 117,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/ORIBI/NON - RESIDENTS",
+          "price": 150000
+        },
+        {
+          "id": 118,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/ORIBI/EXPATRIATES",
+          "price": 300000
+        },
+        {
+          "id": 119,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/WARTHOG/RESIDENTS",
+          "price": 500000
+        },
+        {
+          "id": 120,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/WARTHOG/NON - RESIDENTS",
+          "price": 800000
+        },
+        {
+          "id": 121,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/WARTHOG/EXPATRIATES",
+          "price": 1500000
+        },
+        {
+          "id": 122,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/GRASS CUTTER/RESIDENTS",
+          "price": 50000
+        },
+        {
+          "id": 123,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/GRASS CUTTER/NON - RESIDENTS",
+          "price": 80000
+        },
+        {
+          "id": 124,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/GRASS CUTTER/EXPATRIATES",
+          "price": 200000
+        },
+        {
+          "id": 125,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/HARE/RESIDENTS",
+          "price": 50000
+        },
+        {
+          "id": 126,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/HARE/NON - RESIDENTS",
+          "price": 80000
+        },
+        {
+          "id": 127,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/HARE/EXPATRIATES",
+          "price": 200000
+        },
+        {
+          "id": 128,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/GIANT RAT/RESIDENTS",
+          "price": 20000
+        },
+        {
+          "id": 129,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/GIANT RAT/NON - RESIDENTS",
+          "price": 30000
+        },
+        {
+          "id": 130,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/GIANT RAT/EXPATRIATES",
+          "price": 150000
+        },
+        {
+          "id": 131,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/PORCUPINE/RESIDENTS",
+          "price": 100000
+        },
+        {
+          "id": 132,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/PORCUPINE/NON - RESIDENTS",
+          "price": 200000
+        },
+        {
+          "id": 133,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/PORCUPINE/EXPATRIATES",
+          "price": 400000
+        },
+        {
+          "id": 134,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/AFRICAN CIVET/RESIDENTS",
+          "price": 80000
+        },
+        {
+          "id": 135,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/AFRICAN CIVET/NON - RESIDENTS",
+          "price": 100000
+        },
+        {
+          "id": 136,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/AFRICAN CIVET/EXPATRIATES",
+          "price": 450000
+        },
+        {
+          "id": 137,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/HYRAX/RESIDENTS",
+          "price": 50000
+        },
+        {
+          "id": 138,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/HYRAX/NON - RESIDENTS",
+          "price": 80000
+        },
+        {
+          "id": 139,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/HYRAX/EXPATRIATES",
+          "price": 200000
+        },
+        {
+          "id": 140,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/MONGOOSE/RESIDENTS",
+          "price": 30000
+        },
+        {
+          "id": 141,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/MONGOOSE/NON - RESIDENTS",
+          "price": 50000
+        },
+        {
+          "id": 142,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/MONGOOSE/EXPATRIATES",
+          "price": 150000
+        },
+        {
+          "id": 143,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/GENET/RESIDENTS",
+          "price": 30000
+        },
+        {
+          "id": 144,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/GENET/NON - RESIDENTS",
+          "price": 50000
+        },
+        {
+          "id": 145,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/GENET/EXPATRIATES",
+          "price": 150000
+        },
+        {
+          "id": 146,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/GUINEA FOWLS/RESIDENTS",
+          "price": 50000
+        },
+        {
+          "id": 147,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/GUINEA FOWLS/NON - RESIDENTS",
+          "price": 80000
+        },
+        {
+          "id": 148,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/GUINEA FOWLS/EXPATRIATES",
+          "price": 200000
+        },
+        {
+          "id": 149,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/WATER FOWLS/RESIDENTS",
+          "price": 50000
+        },
+        {
+          "id": 150,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/WATER FOWLS/NON - RESIDENTS",
+          "price": 100000
+        },
+        {
+          "id": 151,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/WATER FOWLS/EXPATRIATES",
+          "price": 250000
+        },
+        {
+          "id": 152,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/FRANCOLIN/RESIDENTS",
+          "price": 30000
+        },
+        {
+          "id": 153,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/FRANCOLIN/NON - RESIDENTS",
+          "price": 70000
+        },
+        {
+          "id": 154,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/HUNTING LICENSE/FRANCOLIN/EXPATRIATES",
+          "price": 100000
+        },
+        {
+          "id": 155,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/NEW SOURCE OF REVENUE/TOADS AND FROGS/RESIDENTS",
+          "price": 200000
+        },
+        {
+          "id": 156,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/NEW SOURCE OF REVENUE/TOADS AND FROGS/NON - RESIDENTS",
+          "price": 300000
+        },
+        {
+          "id": 157,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/NEW SOURCE OF REVENUE/TOADS AND FROGS/EXPATRIATES",
+          "price": 1000000
+        },
+        {
+          "id": 158,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/NEW SOURCE OF REVENUE/BEE HIVE EXTRACTION/RESIDENTS",
+          "price": 100000
+        },
+        {
+          "id": 159,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/NEW SOURCE OF REVENUE/BEE HIVE EXTRACTION/NON - RESIDENTS",
+          "price": 200000
+        },
+        {
+          "id": 160,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/NEW SOURCE OF REVENUE/BEE HIVE EXTRACTION/EXPATRIATES",
+          "price": 500000
+        },
+        {
+          "id": 161,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/NEW SOURCE OF REVENUE/GRASSHOPPER DEALERS/RESIDENTS",
+          "price": 100000
+        },
+        {
+          "id": 162,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/NEW SOURCE OF REVENUE/GRASSHOPPER DEALERS/NON - RESIDENTS",
+          "price": 150000
+        },
+        {
+          "id": 163,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/NEW SOURCE OF REVENUE/GRASSHOPPER DEALERS/EXPATRIATES",
+          "price": 1000000
+        },
+        {
+          "id": 164,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/NEW SOURCE OF REVENUE/RAT DEALERS/RESIDENTS",
+          "price": 50000
+        },
+        {
+          "id": 165,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/NEW SOURCE OF REVENUE/RAT DEALERS/NON - RESIDENTS",
+          "price": 10000
+        },
+        {
+          "id": 166,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/NEW SOURCE OF REVENUE/RAT DEALERS/EXPATRIATES",
+          "price": 500000
+        },
+        {
+          "id": 167,
+          "code": "LIVESTOCK MARKET/WILD ANIMALS/DOMESTICATION PERMIT",
+          "price": 100000
+        },
+        {
+          "id": 168,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/TRADE ANIMAL TRADERS LICENSE/LARGE ANIMALS",
+          "price": 500000
+        },
+        {
+          "id": 169,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/TRADE ANIMAL TRADERS LICENSE/SMALL ANIMALS",
+          "price": 100000
+        },
+        {
+          "id": 170,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/TRADE ANIMALS FEES/CATTLE AND CAMEL",
+          "price": 50000
+        },
+        {
+          "id": 171,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/TRADE ANIMALS FEES/HORSE AND DONKEY",
+          "price": 100000
+        },
+        {
+          "id": 172,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/TRADE ANIMALS FEES/SHEEP, GOAT, PIGS",
+          "price": 20000
+        },
+        {
+          "id": 173,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/TRADE ANIMALS FEES/HIDES AND SKINS BUYERS LICENSE",
+          "price": 500000
+        },
+        {
+          "id": 176,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/TRADE ANIMALS FEES/SALES OF SUPPLEMENTARY FEES",
+          "price": 10000
+        },
+        {
+          "id": 177,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/TRADE ANIMALS FEES/SALES OF BEEF CATTLE",
+          "price": 10000
+        },
+        {
+          "id": 178,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/TRADE ANIMALS FEES/SALES OF HAY",
+          "price": 10000
+        },
+        {
+          "id": 179,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/TRADE ANIMALS FEES/SALES OF SHEEP AND GOATS",
+          "price": 20000
+        },
+        {
+          "id": 180,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/TRADE ANIMALS FEES/SALES OF CHICKS, EGGS AND BROILERS",
+          "price": 10000
+        },
+        {
+          "id": 181,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/TRADE ANIMALS FEES/SALES OF RECOVERED COWS",
+          "price": 500000
+        },
+        {
+          "id": 182,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/TRADE ANIMALS FEES/TRYPANOSOMIASIS TREATMENT FEES",
+          "price": 10000
+        },
+        {
+          "id": 183,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/TRADE ANIMALS FEES/MEAT INSPECTION FEES",
+          "price": 50000
+        },
+        {
+          "id": 184,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK FARM REGISTRATION/CATTLE",
+          "price": 1000000
+        },
+        {
+          "id": 185,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK FARM REGISTRATION/SHEEP, GOAT, PIG",
+          "price": 500000
+        },
+        {
+          "id": 191,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET REGISTRATION LICENSE/CATTLE",
+          "price": 2500000
+        },
+        {
+          "id": 192,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET REGISTRATION LICENSE/SHEEP AND GOATS",
+          "price": 1000000
+        },
+        {
+          "id": 193,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/POULTRY PRODUCTION/SALES OF CHICK",
+          "price": 500
+        },
+        {
+          "id": 194,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/POULTRY PRODUCTION/SALES OF EGGS",
+          "price": 1000
+        },
+        {
+          "id": 195,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/POULTRY PRODUCTION/SALES OF MEAT",
+          "price": 10000
+        },
+        {
+          "id": 196,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/POULTRY PRODUCTION/FUFORE (CHIGARI  MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 197,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/POULTRY PRODUCTION/YOLA NORTH (JIMETA-JAMBUTU MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 198,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/POULTRY PRODUCTION/GANYE (GANYE MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 199,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/POULTRY PRODUCTION/GAYUK",
+          "price": 2000000
+        },
+        {
+          "id": 200,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/POULTRY PRODUCTION/GIREJ",
+          "price": 2000000
+        },
+        {
+          "id": 201,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/POULTRY PRODUCTION/GOMBI (GOMBI MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 202,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/POULTRY PRODUCTION/GUYUK",
+          "price": 2000000
+        },
+        {
+          "id": 203,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/POULTRY PRODUCTION/JADA (KOJOLI MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 204,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/POULTRY PRODUCTION/LAMURDE (LAFIYA  MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 205,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/POULTRY PRODUCTION/MADAGALI  (ACHABA MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 206,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/POULTRY PRODUCTION/MAIHA",
+          "price": 2000000
+        },
+        {
+          "id": 207,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/POULTRY PRODUCTION/MAYO BELWA (MAYO BELWA MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 208,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/POULTRY PRODUCTION/MICHIKA (MICHIKA MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 209,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/POULTRY PRODUCTION/MUBI NORTH",
+          "price": 2000000
+        },
+        {
+          "id": 210,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/POULTRY PRODUCTION/SHELLENG",
+          "price": 2000000
+        },
+        {
+          "id": 211,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/POULTRY PRODUCTION/SONG (SONG MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 212,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/POULTRY PRODUCTION/TOUNGO",
+          "price": 2000000
+        },
+        {
+          "id": 213,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/VENDORS/YOLA NORTH (JIMETA-JAMBUTU)",
+          "price": 300000
+        },
+        {
+          "id": 214,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/VENDORS/FUFORE (CHIGARI MARKET)",
+          "price": 300000
+        },
+        {
+          "id": 215,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/VENDORS/GANYE (GANYE MARKET)",
+          "price": 300000
+        },
+        {
+          "id": 216,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/VENDORS/GAYUK",
+          "price": 300000
+        },
+        {
+          "id": 217,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/VENDORS/GIREI",
+          "price": 300000
+        },
+        {
+          "id": 218,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/VENDORS/GOMBI (GOMBI MARKET)",
+          "price": 300000
+        },
+        {
+          "id": 219,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/VENDORS/GUYUK",
+          "price": 300000
+        },
+        {
+          "id": 220,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/VENDORS/JADA (KOJOLI MARKET)",
+          "price": 300000
+        },
+        {
+          "id": 221,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/VENDORS/LAMURDE (LAFIYA MARKET)",
+          "price": 300000
+        },
+        {
+          "id": 222,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/VENDORS/MADAGALI  (ACHABA MARKET)",
+          "price": 300000
+        },
+        {
+          "id": 223,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/VENDORS/MAIHA",
+          "price": 300000
+        },
+        {
+          "id": 224,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/VENDORS/MAYO BELWA (MAYO BELWA MARKET)",
+          "price": 300000
+        },
+        {
+          "id": 225,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/VENDORS/MICHIKA (MICHIKA MARKET)",
+          "price": 300000
+        },
+        {
+          "id": 226,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/VENDORS/MUBI NORTH",
+          "price": 300000
+        },
+        {
+          "id": 227,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/VENDORS/SHELLENG",
+          "price": 300000
+        },
+        {
+          "id": 228,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/VENDORS/SONG (SONG MARKET)",
+          "price": 300000
+        },
+        {
+          "id": 229,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/VENDORS/TOUNGO",
+          "price": 300000
+        },
+        {
+          "id": 230,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ROAD TRANSPORT WORKERS UNION/YOLA NORTH (JIMETA-JAMBUTU MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 231,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ROAD TRANSPORT WORKERS UNION/FUFORE",
+          "price": 2000000
+        },
+        {
+          "id": 232,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ROAD TRANSPORT WORKERS UNION/GANYE (GANYE MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 233,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ROAD TRANSPORT WORKERS UNION/GAYUK",
+          "price": 2000000
+        },
+        {
+          "id": 234,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ROAD TRANSPORT WORKERS UNION/GIREI",
+          "price": 2000000
+        },
+        {
+          "id": 235,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ROAD TRANSPORT WORKERS UNION/GOMBI (GOMBI MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 236,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ROAD TRANSPORT WORKERS UNION/GUYUK",
+          "price": 2000000
+        },
+        {
+          "id": 237,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ROAD TRANSPORT WORKERS UNION/JADA (KOJOLI MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 238,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ROAD TRANSPORT WORKERS UNION/LAMURDE (LAFIYA MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 239,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ROAD TRANSPORT WORKERS UNION/MADAGALI  (ACHABA MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 240,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ROAD TRANSPORT WORKERS UNION/MAIHA",
+          "price": 2000000
+        },
+        {
+          "id": 241,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ROAD TRANSPORT WORKERS UNION/MAYO BELWA (MAYO BELWA MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 242,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ROAD TRANSPORT WORKERS UNION/MICHIKA (MICHIKA MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 243,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ROAD TRANSPORT WORKERS UNION/MUBI NORTH",
+          "price": 2000000
+        },
+        {
+          "id": 244,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ROAD TRANSPORT WORKERS UNION/SHELLENG",
+          "price": 2000000
+        },
+        {
+          "id": 245,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ROAD TRANSPORT WORKERS UNION/SONG (SONG MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 246,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ROAD TRANSPORT WORKERS UNION/TOUNGO",
+          "price": 2000000
+        },
+        {
+          "id": 247,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/TRANSPORT ORGANIZATION/YOLA NORTH (JIMETA-JAMBUTU MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 248,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/TRANSPORT ORGANIZATION/FUFORE",
+          "price": 2000000
+        },
+        {
+          "id": 249,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/TRANSPORT ORGANIZATION/GANYE (GANYE MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 250,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/TRANSPORT ORGANIZATION/GAYUK",
+          "price": 2000000
+        },
+        {
+          "id": 251,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/TRANSPORT ORGANIZATION/GIREI",
+          "price": 2000000
+        },
+        {
+          "id": 252,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/TRANSPORT ORGANIZATION/GOMBI (GOMBI MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 253,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/TRANSPORT ORGANIZATION/GUYUK",
+          "price": 2000000
+        },
+        {
+          "id": 254,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/TRANSPORT ORGANIZATION/JADA (KOJOLI MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 255,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/TRANSPORT ORGANIZATION/LAMURDE (LAFIYA MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 256,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/TRANSPORT ORGANIZATION/MADAGALI  (ACHABA MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 257,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/TRANSPORT ORGANIZATION/MAIHA",
+          "price": 2000000
+        },
+        {
+          "id": 258,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/TRANSPORT ORGANIZATION/MAYO BELWA (MAYO BELWA MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 259,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/TRANSPORT ORGANIZATION/MICHIKA (MICHIKA MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 260,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/TRANSPORT ORGANIZATION/MUBI NORTH",
+          "price": 2000000
+        },
+        {
+          "id": 261,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/TRANSPORT ORGANIZATION/SHELLENG",
+          "price": 2000000
+        },
+        {
+          "id": 262,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/TRANSPORT ORGANIZATION/SONG (SONG MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 263,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/TRANSPORT ORGANIZATION/TOUNGO",
+          "price": 2000000
+        },
+        {
+          "id": 264,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ACHABA (MOTOR CYCLE) UNION/YOLA NORTH (JIMETA-JAMBUTU MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 265,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ACHABA (MOTOR CYCLE) UNION/MUBI MORTH",
+          "price": 2000000
+        },
+        {
+          "id": 266,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ACHABA (MOTOR CYCLE) UNION/FUFORE",
+          "price": 2000000
+        },
+        {
+          "id": 267,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ACHABA (MOTOR CYCLE) UNION/GANYE (GANYE MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 268,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ACHABA (MOTOR CYCLE) UNION/GAYUK",
+          "price": 2000000
+        },
+        {
+          "id": 269,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ACHABA (MOTOR CYCLE) UNION/GIREI",
+          "price": 2000000
+        },
+        {
+          "id": 270,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ACHABA (MOTOR CYCLE) UNION/GOMBI (GOMBI MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 271,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ACHABA (MOTOR CYCLE) UNION/GUYUK",
+          "price": 2000000
+        },
+        {
+          "id": 272,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ACHABA (MOTOR CYCLE) UNION/JADA (KOJOLI MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 273,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ACHABA (MOTOR CYCLE) UNION/LAMURDE (LAFIYA MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 274,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ACHABA (MOTOR CYCLE) UNION/MADAGALI (ACHABA MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 275,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ACHABA (MOTOR CYCLE) UNION/MAIHA",
+          "price": 2000000
+        },
+        {
+          "id": 276,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ACHABA (MOTOR CYCLE) UNION/MAYO BELWA (MAYO BELWA MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 277,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ACHABA (MOTOR CYCLE) UNION/MICHIKA (MICHIKA MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 278,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ACHABA (MOTOR CYCLE) UNION/MUBI NORTH",
+          "price": 2000000
+        },
+        {
+          "id": 279,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ACHABA (MOTOR CYCLE) UNION/SHELLENG",
+          "price": 2000000
+        },
+        {
+          "id": 280,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ACHABA (MOTOR CYCLE) UNION/SONG (SONG MARKET)",
+          "price": 2000000
+        },
+        {
+          "id": 281,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/COMMERCIAL SERVICES/ACHABA (MOTOR CYCLE) UNION/TOUNGO",
+          "price": 2000000
+        },
+        {
+          "id": 282,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/CATTLE DEALERS/YOLA NORTH (JIMETA-JAMBUTU MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 283,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/CATTLE DEALERS/MUBI SOUTH (MUBI INT MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 284,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/CATTLE DEALERS/DEMSA",
+          "price": 1000000
+        },
+        {
+          "id": 285,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/CATTLE DEALERS/FUFORE",
+          "price": 1000000
+        },
+        {
+          "id": 286,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/CATTLE DEALERS/GANYE (GANYE MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 287,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/CATTLE DEALERS/GAYUK",
+          "price": 1000000
+        },
+        {
+          "id": 288,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/CATTLE DEALERS/GIREI",
+          "price": 1000000
+        },
+        {
+          "id": 289,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/CATTLE DEALERS/GOMBI (GOMBI MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 290,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/CATTLE DEALERS/GUYUK",
+          "price": 1000000
+        },
+        {
+          "id": 291,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/CATTLE DEALERS/JADA (KOJOLI MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 292,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/CATTLE DEALERS/LAMURDE (LAFIYA MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 293,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/CATTLE DEALERS/MADAGALI (ACHABA MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 294,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/CATTLE DEALERS/MAIHA",
+          "price": 1000000
+        },
+        {
+          "id": 295,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/CATTLE DEALERS/MAYO BELWA (MAYO BELWA MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 296,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/CATTLE DEALERS/MICHIKA (MICHIKA MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 297,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/CATTLE DEALERS/SHELLENG",
+          "price": 1000000
+        },
+        {
+          "id": 298,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/CATTLE DEALERS/SONG (SONG MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 299,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/CATTLE DEALERS/TOUNGO",
+          "price": 1000000
+        },
+        {
+          "id": 300,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/BUTCHERS/YOLA SOUTH",
+          "price": 300000
+        },
+        {
+          "id": 301,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/BUTCHERS/MUBI SOUTH (MUBI INT MARKET)",
+          "price": 300000
+        },
+        {
+          "id": 302,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/BUTCHERS/DEMSA",
+          "price": 300000
+        },
+        {
+          "id": 303,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/BUTCHERS/FUFORE",
+          "price": 300000
+        },
+        {
+          "id": 304,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/BUTCHERS/GANYE (GANYE MARKET)",
+          "price": 300000
+        },
+        {
+          "id": 305,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/BUTCHERS/GAYUK",
+          "price": 300000
+        },
+        {
+          "id": 306,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/BUTCHERS/GIREI",
+          "price": 300000
+        },
+        {
+          "id": 307,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/BUTCHERS/GOMBI (GOMBI MARKET)",
+          "price": 300000
+        },
+        {
+          "id": 308,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/BUTCHERS/GUYUK",
+          "price": 300000
+        },
+        {
+          "id": 309,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/BUTCHERS/JADA (KOJOLI MARKET)",
+          "price": 300000
+        },
+        {
+          "id": 310,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/BUTCHERS/LAMURDE (LAFIYA MARKET)",
+          "price": 300000
+        },
+        {
+          "id": 311,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/BUTCHERS/MADAGALI (ACHABA MARKET)",
+          "price": 300000
+        },
+        {
+          "id": 312,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/BUTCHERS/MAIHA",
+          "price": 300000
+        },
+        {
+          "id": 313,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/BUTCHERS/MAYO BELWA (MAYO BELWA MARKET)",
+          "price": 300000
+        },
+        {
+          "id": 314,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/BUTCHERS/MICHIKA (MICHIKA MARKET)",
+          "price": 300000
+        },
+        {
+          "id": 315,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/BUTCHERS/SHELLENG",
+          "price": 300000
+        },
+        {
+          "id": 316,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/BUTCHERS/SONG (SONG MARKET)",
+          "price": 300000
+        },
+        {
+          "id": 317,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/BUTCHERS/TOUNGO",
+          "price": 300000
+        },
+        {
+          "id": 318,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/ANIMAL FEED DEALERS/YOLA NORTH (JIMETA-JAMBUTU MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 319,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/ANIMAL FEED DEALERS/MUBI NORTH",
+          "price": 1000000
+        },
+        {
+          "id": 320,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/ANIMAL FEED DEALERS/DEMSA",
+          "price": 1000000
+        },
+        {
+          "id": 321,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/ANIMAL FEED DEALERS/FUFORE",
+          "price": 1000000
+        },
+        {
+          "id": 322,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/ANIMAL FEED DEALERS/GANYE (GANYE MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 323,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/ANIMAL FEED DEALERS/GAYUK",
+          "price": 1000000
+        },
+        {
+          "id": 324,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/ANIMAL FEED DEALERS/GIREI",
+          "price": 1000000
+        },
+        {
+          "id": 325,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/ANIMAL FEED DEALERS/GOMBI (GOMBI MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 326,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/ANIMAL FEED DEALERS/GUYUK",
+          "price": 1000000
+        },
+        {
+          "id": 327,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/ANIMAL FEED DEALERS/JADA (KOJOLI MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 328,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/ANIMAL FEED DEALERS/LAMURDE (LAFIYA MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 329,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/ANIMAL FEED DEALERS/MADAGALI (ACHABA MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 330,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/ANIMAL FEED DEALERS/MAIHA",
+          "price": 1000000
+        },
+        {
+          "id": 331,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/ANIMAL FEED DEALERS/MAYO BELWA (MAYO BELWA MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 332,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/ANIMAL FEED DEALERS/MICHIKA (MICHIKA MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 333,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/ANIMAL FEED DEALERS/SHELLENG",
+          "price": 1000000
+        },
+        {
+          "id": 334,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/ANIMAL FEED DEALERS/SONG (SONG MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 335,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/ANIMAL FEED DEALERS/TOUNGO",
+          "price": 1000000
+        },
+        {
+          "id": 336,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/POULTRY FEED DEALERS/YOLA SOUTH",
+          "price": 1000000
+        },
+        {
+          "id": 337,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/POULTRY FEED DEALERS/MUBI NORTH",
+          "price": 1000000
+        },
+        {
+          "id": 338,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/POULTRY FEED DEALERS/DEMSA",
+          "price": 1000000
+        },
+        {
+          "id": 339,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/POULTRY FEED DEALERS/FUFORE",
+          "price": 1000000
+        },
+        {
+          "id": 340,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/POULTRY FEED DEALERS/GANYE (GANYE MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 341,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/POULTRY FEED DEALERS/GAYUK",
+          "price": 1000000
+        },
+        {
+          "id": 342,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/POULTRY FEED DEALERS/GIREI",
+          "price": 1000000
+        },
+        {
+          "id": 343,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/POULTRY FEED DEALERS/GOMBI (GOMBI MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 344,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/POULTRY FEED DEALERS/GUYUK",
+          "price": 1000000
+        },
+        {
+          "id": 345,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/POULTRY FEED DEALERS/JADA (KOJOLI MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 346,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/POULTRY FEED DEALERS/LAMURDE (LAFIYA MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 347,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/POULTRY FEED DEALERS/MADAGALI (ACHABA MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 348,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/POULTRY FEED DEALERS/MAIHA",
+          "price": 1000000
+        },
+        {
+          "id": 349,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/POULTRY FEED DEALERS/MAYO BELWA (MAYO BELWA MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 350,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/POULTRY FEED DEALERS/MICHIKA (MICHIKA MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 351,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/POULTRY FEED DEALERS/SHELLENG",
+          "price": 1000000
+        },
+        {
+          "id": 352,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/POULTRY FEED DEALERS/SONG (SONG MARKET)",
+          "price": 1000000
+        },
+        {
+          "id": 353,
+          "code": "LIVESTOCK MARKET/REGISTRATION OF BUSINESS/DISTRIBUTION SERVICES EST/POULTRY FEED DEALERS/TOUNGO",
+          "price": 1000000
+        },
+        {
+          "id": 354,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/TRUCK PAYMENT/GANYE (GANYE MARKET)",
+          "price": 800000
+        },
+        {
+          "id": 355,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/TRUCK PAYMENT/FUFORE",
+          "price": 800000
+        },
+        {
+          "id": 356,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/TRUCK PAYMENT/DEMSA",
+          "price": 800000
+        },
+        {
+          "id": 357,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/CANTER AND J5 PAYMENT/DEMSA",
+          "price": 400000
+        },
+        {
+          "id": 358,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/TRUCK PAYMENT/GAYUK",
+          "price": 800000
+        },
+        {
+          "id": 359,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/TRUCK PAYMENT/GIREI",
+          "price": 800000
+        },
+        {
+          "id": 360,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/TRUCK PAYMENT/GOMBI (GOMBI MARKET)",
+          "price": 800000
+        },
+        {
+          "id": 361,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/TRUCK PAYMENT/GUYUK",
+          "price": 800000
+        },
+        {
+          "id": 362,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/TRUCK PAYMENT/JADA (KOJOLI MARKET)",
+          "price": 800000
+        },
+        {
+          "id": 363,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/TRUCK PAYMENT/LAMURDE (LAFIYA MARKET)",
+          "price": 800000
+        },
+        {
+          "id": 364,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/TRUCK PAYMENT/MADAGALI (ACHABA MARKET)",
+          "price": 800000
+        },
+        {
+          "id": 365,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/TRUCK PAYMENT/MAIHA",
+          "price": 800000
+        },
+        {
+          "id": 366,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/TRUCK PAYMENT/MAYO BELWA (MAYO BELWA MARKET)",
+          "price": 800000
+        },
+        {
+          "id": 367,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/TRUCK PAYMENT/MICHIKA (MICHIKA MARKET)",
+          "price": 800000
+        },
+        {
+          "id": 368,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/TRUCK PAYMENT/MUBI NORTH",
+          "price": 800000
+        },
+        {
+          "id": 369,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/TRUCK PAYMENT/MUBI SOUTH (MUBI INT MARKET)",
+          "price": 800000
+        },
+        {
+          "id": 370,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/TRUCK PAYMENT/NUMAN",
+          "price": 800000
+        },
+        {
+          "id": 371,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/TRUCK PAYMENT/SHELLENG",
+          "price": 800000
+        },
+        {
+          "id": 372,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/TRUCK PAYMENT/SONG (SONG MARKET)",
+          "price": 800000
+        },
+        {
+          "id": 373,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/TRUCK PAYMENT/TOUNGO",
+          "price": 800000
+        },
+        {
+          "id": 374,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/TRUCK PAYMENT/YOLA NORTH (JIMETA-JAMBUTU MARKET)",
+          "price": 800000
+        },
+        {
+          "id": 375,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/TRUCK PAYMENT/YOLA SOUTH (NGURORE  MARKET)",
+          "price": 800000
+        },
+        {
+          "id": 376,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/CANTER AND J5 PAYMENT/FUFORE",
+          "price": 400000
+        },
+        {
+          "id": 377,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/CANTER AND J5 PAYMENT/GANYE (GANYE MARKET)",
+          "price": 400000
+        },
+        {
+          "id": 378,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/CANTER AND J5 PAYMENT/GAYUK",
+          "price": 400000
+        },
+        {
+          "id": 379,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/CANTER AND J5 PAYMENT/GIREI",
+          "price": 400000
+        },
+        {
+          "id": 380,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/CANTER AND J5 PAYMENT/GOMBI (GOMBI MARKET)",
+          "price": 400000
+        },
+        {
+          "id": 381,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/CANTER AND J5 PAYMENT/GUYUK",
+          "price": 400000
+        },
+        {
+          "id": 382,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/CANTER AND J5 PAYMENT/JADA (KOJOLI MARKET)",
+          "price": 400000
+        },
+        {
+          "id": 383,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/CANTER AND J5 PAYMENT/LAMURDE (LAFIYA MARKET)",
+          "price": 400000
+        },
+        {
+          "id": 384,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/CANTER AND J5 PAYMENT/MADAGALI (ACHABA MARKET)",
+          "price": 400000
+        },
+        {
+          "id": 385,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/CANTER AND J5 PAYMENT/MAIHA",
+          "price": 400000
+        },
+        {
+          "id": 386,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/CANTER AND J5 PAYMENT/MAYO BELWA (MAYO BELWA MARKET)",
+          "price": 400000
+        },
+        {
+          "id": 387,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/CANTER AND J5 PAYMENT/MICHIKA (MICHIKA MARKET)",
+          "price": 400000
+        },
+        {
+          "id": 388,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/CANTER AND J5 PAYMENT/MUBI NORTH",
+          "price": 400000
+        },
+        {
+          "id": 389,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/CANTER AND J5 PAYMENT/MUBI SOUTH (MUBI INT MARKET)",
+          "price": 400000
+        },
+        {
+          "id": 390,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/CANTER AND J5 PAYMENT/NUMAN",
+          "price": 400000
+        },
+        {
+          "id": 391,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/CANTER AND J5 PAYMENT/SHELLENG",
+          "price": 400000
+        },
+        {
+          "id": 392,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/CANTER AND J5 PAYMENT/SONG (SONG MARKET)",
+          "price": 400000
+        },
+        {
+          "id": 393,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/CANTER AND J5 PAYMENT/TOUNGO",
+          "price": 400000
+        },
+        {
+          "id": 394,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/CANTER AND J5 PAYMENT/YOLA NORTH (JIMETA-JAMBUTU MARKET)",
+          "price": 400000
+        },
+        {
+          "id": 395,
+          "code": "LIVESTOCK MARKET/LIVESTOCK/LIVESTOCK MARKET COLLECTIONS AND TRANSPORTATION/CANTER AND J5 PAYMENT/YOLA SOUTH (NGURORE MARKET)",
+          "price": 400000
+        },
+        {
+          "id": 397,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/SMALL SCALE PHARMACY STORE/YOLA NORTH (JIMETA-JAMBUTU MARKET)",
+          "price": 500000
+        },
+        {
+          "id": 398,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/SMALL SCALE PHARMACY STORE/MUBI NORTH",
+          "price": 50000
+        },
+        {
+          "id": 399,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/SMALL SCALE PHARMACY STORE/DEMSA",
+          "price": 50000
+        },
+        {
+          "id": 400,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/SMALL SCALE PHARMACY STORE/FUFORE",
+          "price": 40000
+        },
+        {
+          "id": 401,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/SMALL SCALE PHARMACY STORE/GAYUK",
+          "price": 50000
+        },
+        {
+          "id": 402,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/SMALL SCALE PHARMACY STORE/JADA (KOJOLI MARKET)",
+          "price": 40000
+        },
+        {
+          "id": 403,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/SMALL SCALE PHARMACY STORE/LAMURDE (LAFIYA MARKET)",
+          "price": 50000
+        },
+        {
+          "id": 404,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/SMALL SCALE PHARMACY STORE/MADAGALI (ACHABA MARKET)",
+          "price": 40000
+        },
+        {
+          "id": 405,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/SMALL SCALE PHARMACY STORE/MAIHA",
+          "price": 50000
+        },
+        {
+          "id": 406,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/SMALL SCALE PHARMACY STORE/MAYO BELWA (MAYO BELWA MARKET)",
+          "price": 50000
+        },
+        {
+          "id": 407,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/SMALL SCALE PHARMACY STORE/SHELLENG",
+          "price": 50000
+        },
+        {
+          "id": 408,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/SMALL SCALE PHARMACY STORE/SONG (SONG MARKET)",
+          "price": 40000
+        },
+        {
+          "id": 409,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/SMALL SCALE PHARMACY STORE/TOUNGO",
+          "price": 50000
+        },
+        {
+          "id": 410,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/MUBI NORTH",
+          "price": 70000
+        },
+        {
+          "id": 411,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/YOLA NORTH (JIMETA-JAMBUTU MARKET)",
+          "price": 70000
+        },
+        {
+          "id": 412,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/DEMSA",
+          "price": 70000
+        },
+        {
+          "id": 413,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/FUFORE",
+          "price": 70000
+        },
+        {
+          "id": 414,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/GAYUK",
+          "price": 70000
+        },
+        {
+          "id": 415,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/GIREI",
+          "price": 70000
+        },
+        {
+          "id": 416,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/GUYUK",
+          "price": 60000
+        },
+        {
+          "id": 417,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/JADA (KOJOLI MARKET)",
+          "price": 60000
+        },
+        {
+          "id": 418,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/LAMURDE (LAFIYA MARKET)",
+          "price": 70000
+        },
+        {
+          "id": 419,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/MADAGALI (ACHABA MARKET)",
+          "price": 60000
+        },
+        {
+          "id": 420,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/MAIHA",
+          "price": 70000
+        },
+        {
+          "id": 421,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/MAYO BELWA (MAYO BELWA MARKET)",
+          "price": 70000
+        },
+        {
+          "id": 422,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/SHELLENG",
+          "price": 60000
+        },
+        {
+          "id": 423,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/SONG (SONG MARKET)",
+          "price": 70000
+        },
+        {
+          "id": 424,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/MEDUIM SCALE PHARMACY STORE/TOUNGO",
+          "price": 60000
+        },
+        {
+          "id": 425,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/YOLA NORTH (JIMETA-JAMBUTU MARKET)",
+          "price": 100000
+        },
+        {
+          "id": 426,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/MUBI NORTH",
+          "price": 100000
+        },
+        {
+          "id": 427,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/DEMSA",
+          "price": 100000
+        },
+        {
+          "id": 428,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/FUFORE",
+          "price": 100000
+        },
+        {
+          "id": 429,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/GAYUK",
+          "price": 110000
+        },
+        {
+          "id": 430,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/GIREI",
+          "price": 100000
+        },
+        {
+          "id": 431,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/GUYUK",
+          "price": 100000
+        },
+        {
+          "id": 432,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/JADA (KOJOLI MARKET)",
+          "price": 110000
+        },
+        {
+          "id": 433,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/LAMURDE (LAFIYA MARKET)",
+          "price": 110000
+        },
+        {
+          "id": 434,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/MADAGALI (ACHABA MARKET)",
+          "price": 100000
+        },
+        {
+          "id": 435,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/MAIHA",
+          "price": 110000
+        },
+        {
+          "id": 436,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/MAYO BELWA (MAYO BELWA MARKET)",
+          "price": 110000
+        },
+        {
+          "id": 437,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/SHELLENG",
+          "price": 100000
+        },
+        {
+          "id": 438,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/SONG (SONG MARKET)",
+          "price": 110000
+        },
+        {
+          "id": 439,
+          "code": "LIVESTOCK MARKET/VETERINARY DRUG STORE/MONTHLY SANITATION RATE OF PREMISES/LARGE SCALE PHARMACY STORE/TOUNGO",
+          "price": 100000
+        },
+        {
+          "id": 441,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION/GIREI",
+          "price": 10000000
+        },
+        {
+          "id": 443,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION/YOLA NORTH",
+          "price": 10000000
+        },
+        {
+          "id": 444,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION/YOLA SOUTH",
+          "price": 10000000
+        },
+        {
+          "id": 445,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION/MUBI NORTH",
+          "price": 100000000
+        },
+        {
+          "id": 446,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION/MUBI SOUTH",
+          "price": 10000000
+        },
+        {
+          "id": 447,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION/NUMAN",
+          "price": 7500000
+        },
+        {
+          "id": 448,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION/GANYE",
+          "price": 7500000
+        },
+        {
+          "id": 449,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION/HONG",
+          "price": 7500000
+        },
+        {
+          "id": 450,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION/SONG",
+          "price": 7500000
+        },
+        {
+          "id": 451,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION/JADA",
+          "price": 7500000
+        },
+        {
+          "id": 452,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION/GOMBI",
+          "price": 7500000
+        },
+        {
+          "id": 453,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION/FUFURE",
+          "price": 5000000
+        },
+        {
+          "id": 454,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION/MADAGALI",
+          "price": 5000000
+        },
+        {
+          "id": 455,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION/MAYO BELWA",
+          "price": 5000000
+        },
+        {
+          "id": 456,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION/LAMURDE",
+          "price": 5000000
+        },
+        {
+          "id": 457,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION/DEMSA",
+          "price": 5000000
+        },
+        {
+          "id": 458,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION/SHELLENG",
+          "price": 5000000
+        },
+        {
+          "id": 459,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION/TOUNGO",
+          "price": 5000000
+        },
+        {
+          "id": 460,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION/MICHIKA",
+          "price": 5000000
+        },
+        {
+          "id": 461,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION/GUYUK",
+          "price": 5000000
+        },
+        {
+          "id": 462,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION/GAYUK",
+          "price": 5000000
+        },
+        {
+          "id": 463,
+          "code": "KEKE NAPEP/REGISTRATION OF KEKE/GIREI",
+          "price": 750000
+        },
+        {
+          "id": 464,
+          "code": "KEKE NAPEP/REGISTRATION OF KEKE/YOLA NORTH",
+          "price": 750000
+        },
+        {
+          "id": 465,
+          "code": "KEKE NAPEP/REGISTRATION OF KEKE/YOLA SOUTH",
+          "price": 750000
+        },
+        {
+          "id": 466,
+          "code": "KEKE NAPEP/REGISTRATION OF KEKE/MUBI NORTH",
+          "price": 750000
+        },
+        {
+          "id": 467,
+          "code": "KEKE NAPEP/REGISTRATION OF KEKE/MUBI SOUTH",
+          "price": 750000
+        },
+        {
+          "id": 468,
+          "code": "KEKE NAPEP/REGISTRATION RENEWAL/GIREI",
+          "price": 400000
+        },
+        {
+          "id": 469,
+          "code": "KEKE NAPEP/REGISTRATION RENEWAL/YOLA NORTH",
+          "price": 400000
+        },
+        {
+          "id": 470,
+          "code": "KEKE NAPEP/REGISTRATION RENEWAL/YOLA SOUTH",
+          "price": 400000
+        },
+        {
+          "id": 471,
+          "code": "KEKE NAPEP/REGISTRATION RENEWAL/MUBI NORTH",
+          "price": 400000
+        },
+        {
+          "id": 472,
+          "code": "KEKE NAPEP/REGISTRATION RENEWAL/MUBI SOUTH",
+          "price": 400000
+        },
+        {
+          "id": 473,
+          "code": "KEKE NAPEP/PENALTY FOR UNREGISTERED/GIREI",
+          "price": 2000000
+        },
+        {
+          "id": 474,
+          "code": "KEKE NAPEP/PENALTY FOR UNREGISTERED/YOLA NORTH",
+          "price": 2000000
+        },
+        {
+          "id": 475,
+          "code": "KEKE NAPEP/PENALTY FOR UNREGISTERED/YOLA SOUTH",
+          "price": 2000000
+        },
+        {
+          "id": 476,
+          "code": "KEKE NAPEP/PENALTY FOR UNREGISTERED/MUBI NORTH",
+          "price": 2000000
+        },
+        {
+          "id": 477,
+          "code": "KEKE NAPEP/PENALTY FOR UNREGISTERED/MUBI SOUTH",
+          "price": 2000000
+        },
+        {
+          "id": 478,
+          "code": "KEKE NAPEP/RIDING WITHOUT LICENCE/GIREI",
+          "price": 500000
+        },
+        {
+          "id": 479,
+          "code": "KEKE NAPEP/RIDING WITHOUT LICENCE/YOLA NORTH",
+          "price": 500000
+        },
+        {
+          "id": 480,
+          "code": "KEKE NAPEP/RIDING WITHOUT LICENCE/YOLA SOUTH",
+          "price": 500000
+        },
+        {
+          "id": 481,
+          "code": "KEKE NAPEP/RIDING WITHOUT LICENCE/MUBI NORTH",
+          "price": 500000
+        },
+        {
+          "id": 482,
+          "code": "KEKE NAPEP/RIDING WITHOUT LICENCE/MUBI SOUTH",
+          "price": 500000
+        },
+        {
+          "id": 483,
+          "code": "KEKE NAPEP/DAILY FEE/GIREI",
+          "price": 5000
+        },
+        {
+          "id": 484,
+          "code": "KEKE NAPEP/DAILY FEE/YOLA NORTH",
+          "price": 5000
+        },
+        {
+          "id": 485,
+          "code": "KEKE NAPEP/DAILY FEE/YOLA SOUTH",
+          "price": 5000
+        },
+        {
+          "id": 486,
+          "code": "KEKE NAPEP/DAILY FEE/MUBI NORTH",
+          "price": 5000
+        },
+        {
+          "id": 487,
+          "code": "KEKE NAPEP/DAILY FEE/MUBI SOUTH",
+          "price": 5000
+        },
+        {
+          "id": 488,
+          "code": "KEKE NAPEP/DAILY CROSS TERRITORY FEE/GIREI",
+          "price": 20000
+        },
+        {
+          "id": 489,
+          "code": "KEKE NAPEP/DAILY CROSS TERRITORY FEE/YOLA NORTH",
+          "price": 20000
+        },
+        {
+          "id": 490,
+          "code": "KEKE NAPEP/DAILY CROSS TERRITORY FEE/YOLA SOUTH",
+          "price": 20000
+        },
+        {
+          "id": 491,
+          "code": "KEKE NAPEP/DAILY CROSS TERRITORY FEE/MUBI NORTH",
+          "price": 20000
+        },
+        {
+          "id": 492,
+          "code": "KEKE NAPEP/DAILY CROSS TERRITORY FEE/MUBI SOUTH",
+          "price": 20000
+        },
+        {
+          "id": 493,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION RENEWAL/GIREI",
+          "price": 7500000
+        },
+        {
+          "id": 494,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION RENEWAL/YOLA NORTH",
+          "price": 7500000
+        },
+        {
+          "id": 495,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION RENEWAL/YOLA SOUTH",
+          "price": 7500000
+        },
+        {
+          "id": 496,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION RENEWAL/MUBI NORTH",
+          "price": 7500000
+        },
+        {
+          "id": 497,
+          "code": "KEKE NAPEP/REGISTRATION OF UNION RENEWAL/MUBI SOUTH",
+          "price": 7500000
+        },
+        {
+          "id": 498,
+          "code": "JIMETA MODERN MARKET/SHOP RENT (ANNUAL)/WARE HOUSE",
+          "price": 20000000
+        },
+        {
+          "id": 499,
+          "code": "JIMETA MODERN MARKET/SHOP RENT (ANNUAL)/LARGE LOCK UP SHOP",
+          "price": 15000000
+        },
+        {
+          "id": 500,
+          "code": "JIMETA MODERN MARKET/SHOP RENT (ANNUAL)/MEDIUM LOCK UP SHOP",
+          "price": 12000000
+        },
+        {
+          "id": 501,
+          "code": "JIMETA MODERN MARKET/SHOP RENT (ANNUAL)/SMALL LOCK UP SHOP",
+          "price": 10000000
+        },
+        {
+          "id": 502,
+          "code": "JIMETA MODERN MARKET/SHOP RENT (ANNUAL)/OPEN DEMARCATED SHOP",
+          "price": 5000000
+        },
+        {
+          "id": 503,
+          "code": "JIMETA MODERN MARKET/SHOP RENT (ANNUAL)/OPEN SHOP \\ STALL",
+          "price": 2500000
+        },
+        {
+          "id": 504,
+          "code": "JIMETA MODERN MARKET/SHOP RENT (ANNUAL)/HAWKERS",
+          "price": 250000
+        },
+        {
+          "id": 505,
+          "code": "JIMETA MODERN MARKET/SERVICES/SECURITY/WARE HOUSE/ANNUAL",
+          "price": 2400000
+        },
+        {
+          "id": 506,
+          "code": "JIMETA MODERN MARKET/SERVICES/SECURITY/WARE HOUSE/BI-ANNUAL",
+          "price": 1200000
+        },
+        {
+          "id": 507,
+          "code": "JIMETA MODERN MARKET/SERVICES/SECURITY/LARGE LOCK UP SHOP/BI-ANNUAL",
+          "price": 1000000
+        },
+        {
+          "id": 508,
+          "code": "JIMETA MODERN MARKET/SERVICES/SECURITY/LARGE LOCK UP SHOP/ANNUAL",
+          "price": 2000000
+        },
+        {
+          "id": 509,
+          "code": "JIMETA MODERN MARKET/SERVICES/SECURITY/MEDIUM LOCK UP SHOP/BI-ANNUAL",
+          "price": 750000
+        },
+        {
+          "id": 510,
+          "code": "JIMETA MODERN MARKET/SERVICES/SECURITY/MEDIUM LOCK UP SHOP/ANNUAL",
+          "price": 1500000
+        },
+        {
+          "id": 511,
+          "code": "JIMETA MODERN MARKET/SERVICES/SECURITY/SMALL LOCK UP SHOP/BI-ANNUAL",
+          "price": 500000
+        },
+        {
+          "id": 512,
+          "code": "JIMETA MODERN MARKET/SERVICES/SECURITY/SMALL LOCK UP SHOP/ANNUAL",
+          "price": 1000000
+        },
+        {
+          "id": 513,
+          "code": "JIMETA MODERN MARKET/SERVICES/SECURITY/OPEN DEMARCATED SHOP/ANNUAL",
+          "price": 500000
+        },
+        {
+          "id": 514,
+          "code": "JIMETA MODERN MARKET/SERVICES/SECURITY/OPEN DEMARCATED SHOP/BI-ANNUAL",
+          "price": 250000
+        },
+        {
+          "id": 515,
+          "code": "JIMETA MODERN MARKET/SERVICES/SECURITY/OPEN SHOP \\ STALL/BI-ANNUAL",
+          "price": 125000
+        },
+        {
+          "id": 516,
+          "code": "JIMETA MODERN MARKET/SERVICES/SECURITY/OPEN SHOP \\ STALL/ANNUAL",
+          "price": 250000
+        },
+        {
+          "id": 517,
+          "code": "JIMETA MODERN MARKET/SERVICES/SECURITY/HAWKERS",
+          "price": 120000
+        },
+        {
+          "id": 518,
+          "code": "JIMETA MODERN MARKET/SERVICES/ELECTRICITY/WARE HOUSE/BI-ANNUAL",
+          "price": 600000
+        },
+        {
+          "id": 519,
+          "code": "JIMETA MODERN MARKET/SERVICES/ELECTRICITY/WARE HOUSE/ANNUAL",
+          "price": 1200000
+        },
+        {
+          "id": 520,
+          "code": "JIMETA MODERN MARKET/SERVICES/ELECTRICITY/LARGE LOCK UP SHOP/BI-ANNUAL",
+          "price": 500000
+        },
+        {
+          "id": 521,
+          "code": "JIMETA MODERN MARKET/SERVICES/ELECTRICITY/LARGE LOCK UP SHOP/ANNUAL",
+          "price": 1000000
+        },
+        {
+          "id": 522,
+          "code": "JIMETA MODERN MARKET/SERVICES/ELECTRICITY/MEDIUM LOCK UP SHOP/BI-ANNUAL",
+          "price": 400000
+        },
+        {
+          "id": 523,
+          "code": "JIMETA MODERN MARKET/SERVICES/ELECTRICITY/MEDIUM LOCK UP SHOP/ANNUAL",
+          "price": 800000
+        },
+        {
+          "id": 524,
+          "code": "JIMETA MODERN MARKET/SERVICES/ELECTRICITY/SMALL LOCK UP SHOP/BI-ANNUAL",
+          "price": 300000
+        },
+        {
+          "id": 525,
+          "code": "JIMETA MODERN MARKET/SERVICES/ELECTRICITY/SMALL LOCK UP SHOP/ANNUAL",
+          "price": 600000
+        },
+        {
+          "id": 526,
+          "code": "JIMETA MODERN MARKET/SERVICES/ELECTRICITY/OPEN DEMARCATED SHOP",
+          "price": 100000
+        },
+        {
+          "id": 527,
+          "code": "JIMETA MODERN MARKET/SERVICES/ELECTRICITY/OPEN SHOP \\ STALL",
+          "price": 50000
+        },
+        {
+          "id": 528,
+          "code": "JIMETA MODERN MARKET/SERVICES/WATER/WARE HOUSE/BI-ANNUAL",
+          "price": 600000
+        },
+        {
+          "id": 529,
+          "code": "JIMETA MODERN MARKET/SERVICES/WATER/WARE HOUSE/ANNUAL",
+          "price": 1200000
+        },
+        {
+          "id": 530,
+          "code": "JIMETA MODERN MARKET/SERVICES/WATER/LARGE LOCK UP SHOP/BI-ANNUAL",
+          "price": 500000
+        },
+        {
+          "id": 531,
+          "code": "JIMETA MODERN MARKET/SERVICES/WATER/LARGE LOCK UP SHOP/ANNUAL",
+          "price": 1000000
+        },
+        {
+          "id": 532,
+          "code": "JIMETA MODERN MARKET/SERVICES/WATER/MEDIUM LOCK UP SHOP/BI-ANNUAL",
+          "price": 400000
+        },
+        {
+          "id": 533,
+          "code": "JIMETA MODERN MARKET/SERVICES/WATER/MEDIUM LOCK UP SHOP/ANNUAL",
+          "price": 800000
+        },
+        {
+          "id": 534,
+          "code": "JIMETA MODERN MARKET/SERVICES/WATER/SMALL LOCK UP SHOP/BI-ANNUAL",
+          "price": 300000
+        },
+        {
+          "id": 535,
+          "code": "JIMETA MODERN MARKET/SERVICES/WATER/SMALL LOCK UP SHOP/ANNUAL",
+          "price": 600000
+        },
+        {
+          "id": 536,
+          "code": "JIMETA MODERN MARKET/SERVICES/WATER/OPEN DEMARCATED SHOP/BI-ANNUAL",
+          "price": 200000
+        },
+        {
+          "id": 537,
+          "code": "JIMETA MODERN MARKET/SERVICES/WATER/OPEN DEMARCATED SHOP/ANNUAL",
+          "price": 400000
+        },
+        {
+          "id": 538,
+          "code": "JIMETA MODERN MARKET/SERVICES/WATER/OPEN SHOP \\ STALL/BI-ANNUAL",
+          "price": 150000
+        },
+        {
+          "id": 539,
+          "code": "JIMETA MODERN MARKET/SERVICES/WATER/OPEN SHOP \\ STALL/ANNUAL",
+          "price": 300000
+        },
+        {
+          "id": 540,
+          "code": "JIMETA MODERN MARKET/SERVICES/REFUSE MGT AND DISPOSAL/WARE HOUSE/BI-ANNUAL",
+          "price": 1000000
+        },
+        {
+          "id": 541,
+          "code": "JIMETA MODERN MARKET/SERVICES/REFUSE MGT AND DISPOSAL/WARE HOUSE/ANNUAL",
+          "price": 2000000
+        },
+        {
+          "id": 542,
+          "code": "JIMETA MODERN MARKET/SERVICES/REFUSE MGT AND DISPOSAL/LARGE LOCK UP SHOP/BI-ANNUAL",
+          "price": 750000
+        },
+        {
+          "id": 543,
+          "code": "JIMETA MODERN MARKET/SERVICES/REFUSE MGT AND DISPOSAL/LARGE LOCK UP SHOP/ANNUAL",
+          "price": 1500000
+        },
+        {
+          "id": 544,
+          "code": "JIMETA MODERN MARKET/SERVICES/REFUSE MGT AND DISPOSAL/MEDIUM LOCK UP SHOP/BI-ANNUAL",
+          "price": 500000
+        },
+        {
+          "id": 545,
+          "code": "JIMETA MODERN MARKET/SERVICES/REFUSE MGT AND DISPOSAL/MEDIUM LOCK UP SHOP/ANNUAL",
+          "price": 1000000
+        },
+        {
+          "id": 546,
+          "code": "JIMETA MODERN MARKET/SERVICES/REFUSE MGT AND DISPOSAL/SMALL LOCK UP SHOP/BI-ANNUAL",
+          "price": 375000
+        },
+        {
+          "id": 547,
+          "code": "JIMETA MODERN MARKET/SERVICES/REFUSE MGT AND DISPOSAL/SMALL LOCK UP SHOP/ANNUAL",
+          "price": 750000
+        },
+        {
+          "id": 548,
+          "code": "JIMETA MODERN MARKET/SERVICES/REFUSE MGT AND DISPOSAL/OPEN DEMARCATED SHOP/BI-ANNUAL",
+          "price": 250000
+        },
+        {
+          "id": 549,
+          "code": "JIMETA MODERN MARKET/SERVICES/REFUSE MGT AND DISPOSAL/OPEN DEMARCATED SHOP/ANNUAL",
+          "price": 500000
+        },
+        {
+          "id": 550,
+          "code": "JIMETA MODERN MARKET/SERVICES/REFUSE MGT AND DISPOSAL/OPEN SHOP \\ STALL",
+          "price": 250000
+        },
+        {
+          "id": 551,
+          "code": "JIMETA MODERN MARKET/SERVICES/REFUSE MGT AND DISPOSAL/HAWKERS",
+          "price": 120000
+        },
+        {
+          "id": 552,
+          "code": "JIMETA MODERN MARKET/SERVICES/MONTHLY SANITATION/WARE HOUSE/BI-ANNUAL",
+          "price": 150000
+        },
+        {
+          "id": 553,
+          "code": "JIMETA MODERN MARKET/SERVICES/MONTHLY SANITATION/WARE HOUSE/ANNUAL",
+          "price": 300000
+        },
+        {
+          "id": 554,
+          "code": "JIMETA MODERN MARKET/SERVICES/MONTHLY SANITATION/LARGE LOCK UP SHOP",
+          "price": 250000
+        },
+        {
+          "id": 555,
+          "code": "JIMETA MODERN MARKET/SERVICES/MONTHLY SANITATION/MEDIUM LOCK UP SHOP",
+          "price": 200000
+        },
+        {
+          "id": 556,
+          "code": "JIMETA MODERN MARKET/SERVICES/MONTHLY SANITATION/SMALL LOCK UP SHOP",
+          "price": 150000
+        },
+        {
+          "id": 557,
+          "code": "JIMETA MODERN MARKET/SERVICES/MONTHLY SANITATION/OPEN DEMARCATED SHOP",
+          "price": 100000
+        },
+        {
+          "id": 558,
+          "code": "JIMETA MODERN MARKET/SERVICES/MONTHLY SANITATION/OPEN SHOP \\ STALL",
+          "price": 50000
+        },
+        {
+          "id": 559,
+          "code": "JIMETA MODERN MARKET/SERVICES/MONTHLY SANITATION/HAWKERS",
+          "price": 20000
+        }
+      ]
+    },
+    {
+      "code": "quickpay",
+      "taxes": [
+        {
+          "id": 576,
+          "code": "JIMETA MODERN MARKET/RELEASE OF CLAMPED VEHICLE/MEDIUM VEHICLE",
+          "price": 500000
+        },
+        {
+          "id": 577,
+          "code": "JIMETA MODERN MARKET/RELEASE OF CLAMPED VEHICLE/LARGE VEHICLE",
+          "price": 1000000
+        },
+        {
+          "id": 578,
+          "code": "KEKE-NAPEP DAILY FEE",
+          "price": 4000
+        },
+        {
+          "id": 579,
+          "code": "KEKE-NAPEP DAILY CROSS TERRITORY FEE",
+          "price": 20000
+        },
+        {
+          "id": 580,
+          "code": "OTHER MARKETS/TOILET",
+          "price": 5000
+        },
+        {
+          "id": 581,
+          "code": "OTHER MARKETS/BATHROOM USAGE",
+          "price": 5000,
+          "tags": [
+            "Q"
+          ]
+        },
+        {
+          "id": 582,
+          "code": "OTHER MARKETS/ENTRANCE FEE/SMALL VEHICLE",
+          "price": 10000
+        },
+        {
+          "id": 583,
+          "code": "OTHER MARKETS/ENTRANCE FEE/MEDIUM VEHICLE",
+          "price": 15000
+        },
+        {
+          "id": 584,
+          "code": "OTHER MARKETS/ENTRANCE FEE/LARGE VEHICLE",
+          "price": 20000
+        },
+        {
+          "id": 585,
+          "code": "OTHER MARKETS/EXIT FEE/SMALL VEHICLE",
+          "price": 10000
+        },
+        {
+          "id": 586,
+          "code": "OTHER MARKETS/EXIT FEE/MEDIUM VEHICLE",
+          "price": 15000
+        },
+        {
+          "id": 587,
+          "code": "OTHER MARKETS/EXIT FEE/LARGE VEHICLE",
+          "price": 20000
+        },
+        {
+          "id": 588,
+          "code": "OTHER MARKETS/PARKING FEE/SMALL VEHICLE",
+          "price": 10000
+        },
+        {
+          "id": 589,
+          "code": "OTHER MARKETS/PARKING FEE/MEDIUM VEHICLE",
+          "price": 15000
+        },
+        {
+          "id": 590,
+          "code": "OTHER MARKETS/PARKING FEE/LARGE VEHICLE",
+          "price": 20000
+        },
+        {
+          "id": 591,
+          "code": "OTHER MARKETS/OVERNIGHT PARKING FEE/SMALL VEHICLE",
+          "price": 100000
+        },
+        {
+          "id": 592,
+          "code": "OTHER MARKETS/OVERNIGHT PARKING FEE/MEDIUM VEHICLE",
+          "price": 200000
+        },
+        {
+          "id": 593,
+          "code": "OTHER MARKETS/OVERNIGHT PARKING FEE/LARGE VEHICLE",
+          "price": 500000
+        },
+        {
+          "id": 594,
+          "code": "OTHER MARKETS/OVER NIGHT STORAGE",
+          "price": 200000
+        },
+        {
+          "id": 595,
+          "code": "OTHER MARKETS/RELEASE OF CLAMPED VEHICLE/SMALL VEHICLE",
+          "price": 500000
+        },
+        {
+          "id": 596,
+          "code": "OTHER MARKETS/RELEASE OF CLAMPED VEHICLE/MEDIUM VEHICLE",
+          "price": 500000
+        },
+        {
+          "id": 597,
+          "code": "OTHER MARKETS/RELEASE OF CLAMPED VEHICLE/LARGE VEHICLE",
+          "price": 1000000
+        },
+        {
+          "id": 598,
+          "code": "KEKE-NAPEP PENALTY FOR UNREGISTERED",
+          "price": 15000
+        },
+        {
+          "id": 599,
+          "code": "OTHER MARKETS/HAWKERS",
+          "price": 10000
+        },
+        {
+          "id": 600,
+          "code": "JIMETA MODERN MARKET/HAWKERS",
+          "price": 10000
+        },
+        {
+          "id": 601,
+          "code": "OTHER MARKETS/TRANSPORTATION/TRUCK",
+          "price": 800000
+        },
+        {
+          "id": 602,
+          "code": "OTHER MARKETS/TRANSPORTATION/J5\\CARTER",
+          "price": 400000
+        },
+        {
+          "id": 560,
+          "code": "JIMETA MODERN MARKET/BATHROOM USAGE",
+          "price": 10000
+        },
+        {
+          "id": 561,
+          "code": "JIMETA MODERN MARKET/TOILET USAGE",
+          "price": 10000
+        },
+        {
+          "id": 562,
+          "code": "JIMETA MODERN MARKET/ENTRANCE FEE/SMALL VEHICLE",
+          "price": 10000
+        },
+        {
+          "id": 563,
+          "code": "JIMETA MODERN MARKET/ENTRANCE FEE/MEDIUM VEHICLE",
+          "price": 15000
+        },
+        {
+          "id": 564,
+          "code": "JIMETA MODERN MARKET/ENTRANCE FEE/LARGE VEHICLE",
+          "price": 20000
+        },
+        {
+          "id": 565,
+          "code": "JIMETA MODERN MARKET/EXIT FEE/SMALL VEHICLE",
+          "price": 10000
+        },
+        {
+          "id": 566,
+          "code": "JIMETA MODERN MARKET/EXIT FEE/MEDIUM VEHICLE",
+          "price": 15000
+        },
+        {
+          "id": 567,
+          "code": "JIMETA MODERN MARKET/EXIT FEE/LARGE VEHICLE",
+          "price": 20000
+        },
+        {
+          "id": 568,
+          "code": "JIMETA MODERN MARKET/PARKING FEE/SMALL VEHICLE",
+          "price": 10000
+        },
+        {
+          "id": 569,
+          "code": "JIMETA MODERN MARKET/PARKING FEE/MEDIUM VEHICLE",
+          "price": 15000
+        },
+        {
+          "id": 570,
+          "code": "JIMETA MODERN MARKET/PARKING FEE/LARGE VEHICLE",
+          "price": 20000
+        },
+        {
+          "id": 571,
+          "code": "JIMETA MODERN MARKET/OVERNIGHT PARKING FEE/SMALL VEHICLE",
+          "price": 100000
+        },
+        {
+          "id": 572,
+          "code": "JIMETA MODERN MARKET/OVERNIGHT PARKING FEE/MEDIUM VEHICLE",
+          "price": 200000
+        },
+        {
+          "id": 573,
+          "code": "JIMETA MODERN MARKET/OVERNIGHT PARKING FEE/LARGE VEHICLE",
+          "price": 500000
+        },
+        {
+          "id": 574,
+          "code": "JIMETA MODERN MARKET/OVER NIGHT STORAGE",
+          "price": 200000
+        },
+        {
+          "id": 575,
+          "code": "JIMETA MODERN MARKET/RELEASE OF CLAMPED VEHICLE/SMALL VEHICLE",
+          "price": 500000
+        }
+      ]
+    }
+  ],
+  "status": 0,
+  "message": "OK"
+}

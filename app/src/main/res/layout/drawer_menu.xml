@@ -1,0 +1,81 @@
+<com.SmartTech.teasyNew.view.menu.DrawerMenu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <!-- DrawerMenu must contain only DrawerMenuItem as direct child -->
+
+    <com.SmartTech.teasyNew.view.menu.MenuItem
+        android:id="@+id/transaction_history"
+        android:onClick="drawerTransactionHistoryClicked"
+        style="@style/drawer_menu_item">
+        <View
+            android:background="@drawable/icon_transaction_history"
+            style="@style/drawer_menu_item_icon"/>
+        <com.SmartTech.teasyNew.view.CustomTextView
+            android:text="Transaction History"
+            style="@style/drawer_menu_item_text"/>
+    </com.SmartTech.teasyNew.view.menu.MenuItem>
+
+
+    <com.SmartTech.teasyNew.view.menu.MenuItem
+        android:onClick="drawerMyCardsClicked"
+        android:id="@+id/my_cards"
+        style="@style/drawer_menu_item">
+        <View
+            android:background="@drawable/icon_my_cards"
+            style="@style/drawer_menu_item_icon"/>
+        <com.SmartTech.teasyNew.view.CustomTextView
+            android:text="My Cards"
+            style="@style/drawer_menu_item_text"/>
+    </com.SmartTech.teasyNew.view.menu.MenuItem>
+
+    <com.SmartTech.teasyNew.view.menu.MenuItem
+        android:onClick="drawerNotificationsClicked"
+        android:id="@+id/notifications"
+        style="@style/drawer_menu_item">
+        <View
+            android:background="@drawable/icon_notifications"
+            style="@style/drawer_menu_item_icon"/>
+        <com.SmartTech.teasyNew.view.CustomTextView
+            android:text="Notifications"
+            style="@style/drawer_menu_item_text"/>
+    </com.SmartTech.teasyNew.view.menu.MenuItem>
+
+    <com.SmartTech.teasyNew.view.menu.MenuItem
+        android:id="@+id/account_settings"
+        style="@style/drawer_menu_item">
+        <View
+            android:background="@drawable/icon_account_settings"
+            style="@style/drawer_menu_item_icon"/>
+        <com.SmartTech.teasyNew.view.CustomTextView
+            android:text="Account Settings"
+            style="@style/drawer_menu_item_text"/>
+    </com.SmartTech.teasyNew.view.menu.MenuItem>
+
+    <com.SmartTech.teasyNew.view.menu.MenuItem
+        android:onClick="drawerChangePinClicked"
+        android:id="@+id/Notification"
+        style="@style/drawer_menu_item">
+        <View
+            android:background="@drawable/icon_account_settings"
+            style="@style/drawer_menu_item_icon"/>
+        <com.SmartTech.teasyNew.view.CustomTextView
+            android:text="Change PIN"
+            style="@style/drawer_menu_item_text"/>
+    </com.SmartTech.teasyNew.view.menu.MenuItem>
+
+    <com.SmartTech.teasyNew.view.menu.MenuItem
+        android:id="@+id/my_profile"
+        style="@style/drawer_menu_item">
+        <View
+            android:background="@drawable/icon_my_profile"
+            style="@style/drawer_menu_item_icon"/>
+        <com.SmartTech.teasyNew.view.CustomTextView
+            android:text="My Profile"
+            style="@style/drawer_menu_item_text"/>
+    </com.SmartTech.teasyNew.view.menu.MenuItem>
+
+
+</com.SmartTech.teasyNew.view.menu.DrawerMenu>

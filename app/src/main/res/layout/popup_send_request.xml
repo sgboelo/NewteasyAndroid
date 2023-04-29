@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="20dp">
+        <View
+                android:id="@+id/progressbar_icon"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/send_data_progressbar"/>
+        <com.SmartTech.teasyNew.view.CustomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Please Wait"
+                android:id="@+id/popup_send_data_header"
+                android:paddingTop="15dp"
+                android:typeface="serif"
+                android:textAppearance="?android:textAppearanceLarge"
+                android:textColor="#000"/>
+        <com.SmartTech.teasyNew.view.CustomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Your Request Is Processing now"
+                android:id="@+id/popup_send_data_subheader"
+                android:paddingTop="5dp"
+                android:typeface="serif"
+                android:textAppearance="?android:textAppearanceMedium"/>
+    </LinearLayout>
+
+    <!--
+        hack: pin button to bottom
+        http://stackoverflow.com/a/4099076
+     -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+    </FrameLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Return to DashBoard"
+        android:id="@+id/button_return"
+        android:textColor="#FFF"
+        android:background="#5bc068"
+        android:visibility="gone"/>
+</LinearLayout>

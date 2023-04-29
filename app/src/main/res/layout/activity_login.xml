@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/google_pixel_4__4xl__1"
+    android:gravity="center_horizontal|center_vertical"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center_horizontal|center_vertical"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:paddingTop="@dimen/_50sdp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/imageView17"
+                    android:layout_width="@dimen/_60sdp"
+                    android:layout_height="@dimen/_60sdp"
+                    app:srcCompat="@drawable/teasylogo" />
+
+                <TextView
+                    android:id="@+id/textView106"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Teasy"
+                    android:textColor="#FFFFFF"
+                    android:textSize="@dimen/_24sdp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView108"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="left"
+                    android:text="Pay©"
+                    android:textColor="#FFFFFF"
+                    android:textSize="@dimen/_24sdp" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView105"
+                android:layout_width="@dimen/_180sdp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Enter Registered Phone Number (Wallet ID)"
+                android:textColor="#FFFFFF"
+                android:textSize="@dimen/_16ssp"
+                android:textStyle="bold" />
+
+            <in.aabhasjindal.otptextview.OtpTextView
+                android:id="@+id/firstPinView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                app:bar_enabled="true"
+                app:bar_height="4dp"
+                app:height="@dimen/_40sdp"
+                app:hide_otp="true"
+                app:length="4"
+                app:otp_text_size="@dimen/_20sdp"
+                app:width="40dp">
+
+            </in.aabhasjindal.otptextview.OtpTextView>
+
+            <in.aabhasjindal.otptextview.OtpTextView
+                android:id="@+id/phoneNumber"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                app:bar_enabled="true"
+                app:bar_height="4dp"
+                app:height="@dimen/_40sdp"
+                app:length="11"
+                app:otp_text_size="@dimen/_16sdp"
+                app:width="@dimen/_20sdp">
+
+            </in.aabhasjindal.otptextview.OtpTextView>
+
+            <com.SmartTech.teasyNew.view.PinView
+                android:id="@+id/animation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_90sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:layout_marginEnd="@dimen/_90sdp"
+                android:gravity="center"
+                android:visibility="gone">
+
+            </com.SmartTech.teasyNew.view.PinView>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/fingerPrintBTN"
+        android:layout_width="99dp"
+        android:layout_height="90dp"
+        android:backgroundTint="#00FFFFFF"
+        android:scaleType="centerInside"
+        app:srcCompat="@drawable/teasy_fingerprint" />
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp">
+
+        <Button
+            android:id="@+id/Support"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:onClick="supportClicked"
+            android:text="Support"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_16ssp" />
+
+        <Button
+            android:id="@+id/btn_accept"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/btn_login_inactive"
+            android:enabled="false"
+            android:onClick="acceptPressed"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/btn_change_id"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:onClick="changeIdPressed"
+            android:text="Change ID"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_16ssp" />
+    </LinearLayout>
+
+</LinearLayout>

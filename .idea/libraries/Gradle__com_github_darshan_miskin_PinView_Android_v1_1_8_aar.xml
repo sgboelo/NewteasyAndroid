@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.darshan-miskin:PinView-Android:v1.1.8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7dc1a90a3b4f74bf960cfc5111fef556/PinView-Android-v1.1.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7dc1a90a3b4f74bf960cfc5111fef556/PinView-Android-v1.1.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7dc1a90a3b4f74bf960cfc5111fef556/PinView-Android-v1.1.8/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.darshan-miskin/PinView-Android/v1.1.8/c1a4538f45011ff6c48ef3084c1f132a2f2e0b31/PinView-Android-v1.1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
